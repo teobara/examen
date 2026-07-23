@@ -486,9 +486,10 @@ function isMulti(q) {
 }
 
 function shuffleOptions(question) {
-  const entries = Object.entries(question.options);
   const correctArr = getCorrectArray(question);
-  const correctTexts = correctArr.map(c => question.options[c]);
+  const entries = Object.entries(question.options).map(([letter, text]) => ({
+    text, isCorrect: correctArr.includes(letter)
+  }));
 
   for (let i = entries.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -500,8 +501,8 @@ function shuffleOptions(question) {
   let newCorrect = [];
 
   for (let i = 0; i < entries.length; i++) {
-    shuffled[letters[i]] = entries[i][1];
-    if (correctTexts.includes(entries[i][1])) {
+    shuffled[letters[i]] = entries[i].text;
+    if (entries[i].isCorrect) {
       newCorrect.push(letters[i]);
     }
   }
