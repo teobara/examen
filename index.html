@@ -600,14 +600,14 @@ function renderQuestion() {
   const qText = document.getElementById('question-text');
   qText.textContent = q.question;
 
+  const oldHint = qText.parentNode.querySelector('.multi-hint');
+  if (oldHint) oldHint.remove();
+
   if (multiQ && !ms.answers[q.id]) {
     const hint = document.createElement('div');
     hint.className = 'multi-hint';
     hint.textContent = `Selectează ${correctCount} răspunsuri`;
     qText.parentNode.appendChild(hint);
-  } else {
-    const oldHint = qText.parentNode.querySelector('.multi-hint');
-    if (oldHint) oldHint.remove();
   }
 
   const existing = ms.answers[q.id];
