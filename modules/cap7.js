@@ -9,7 +9,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "cuprinde în mucoasa duodenului glande Lieberkühn",
       "E": "cuprinde în mucoasa duodenului glande care secretă enzime"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "ileonul este partea terminală a intestinului subțire",
       "E": "mucoasa este un epiteliu cilindric unistratificat"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "prezintă glande Brunner",
       "E": "la nivelul său se varsă canalul coledoc"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "nu prezintă peristaltică",
       "E": "prezintă tenii și haustre"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "se continuă cu ileonul",
       "E": "se numește sigmoid"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "începe cu apendicele vermiform",
       "E": "se termină prin sigmoid"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "prezintă fibre musculare longitudinale",
       "E": "prezintă haustre"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "colonului",
       "E": "apendicelui vermiform"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "glandelor sublinguale",
       "E": "glandelor paratiroide"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "secretă K+ în cantitate mai mică decât în plasmă",
       "E": "se află posterior de tiroidă"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "activează amilaza salivară",
       "E": "inhibă secreția gastrică"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "Na+",
       "E": "HCO3-"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "amilază care hidrolizează amidonul și celuloza",
       "E": "0,1% reziduu uscat"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "menținerea echilibrului hidroelectrolitic",
       "E": "excreția unor substanțe endogene"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "apendicele vermiform",
       "E": "valva ileocecală"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "este asigurat de mușchii masticatori",
       "E": "asigură împingerea alimentelor în esofag"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "centrul deglutiției inhibă nespecific centrul respirator bulbar pe durata deglutiției",
       "E": "reprezintă al doilea timp al deglutiției"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "nervii glosofaringieni",
       "E": "neuronii mienterici inhibitori"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "contactul cu receptorii olfactivi",
       "E": "fragmentarea alimentelor"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "are loc până când alimentele sunt propulsate în stomac",
       "E": "unda de relaxare precede contracția"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "prezintă o relaxare tonică",
       "E": "contribuie la prevenirea refluxului gastro-esofagian"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "somatostatină",
       "E": "secretină"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "este incoloră, cu pH-ul cuprins între 1 și 2,5",
       "E": "conține substanțe anorganice (0,4%) și organice (0,6%)"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "glandele oxintice secretă gastrină",
       "E": "glandele oxintice conțin celule G"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "secretă factor intrinsic, necesar pentru absorbția gastrică a vitaminei B12; E. secretă mucus. [2, 4]",
       "E": "secreta mucus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "sunt localizate doar în regiunea pilorică",
       "E": "secretă pepsinogen"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "este stimulată de secretină",
       "E": "este stimulată de gastrină"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "este secretată sub formă activă",
       "E": "este o enzimă proteolitică"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "mucusul",
       "E": "labfermentul"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "transformă cazeinogenul în cazeinat de calciu, solubil",
       "E": "coagulează brânzeturile"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "are rolul de a digera lipidele",
       "E": "este secretat sub formă inactivă"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "aminoacizi",
       "E": "apă"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "nu se absoarbe",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "este reprezentată de insulină",
       "E": "se eliberează în duoden prin contracția sfincterului Oddi"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "chimotripsina",
       "E": "tripsina"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 36,
@@ -429,7 +429,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "provin din acizii biliari",
       "E": "au rol bacteriostatic"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 37,
@@ -441,7 +441,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "secretină",
       "E": "pancreozimină"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 38,
@@ -453,7 +453,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "gastrină",
       "E": "pancreozimină"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 39,
@@ -465,7 +465,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "amilază",
       "E": "zaharază"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "asigură un pH intestinal optim",
       "E": "este de 500-1.200 g/zi"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "descompune amidonul preparat în zaharoză",
       "E": "descompune amidonul preparat în fructoză"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 42,
@@ -501,7 +501,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "necesită prezența bilei pentru a acționa",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "vitaminelor",
       "E": "proteinelor"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "0,5-0,6 g/kg corp",
       "E": "0,4-0,8 g/kg corp"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 45,
@@ -537,7 +537,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "Na+ ajunge la ficat prin vena portă",
       "E": "fructoza se absoarbe pasiv"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 46,
@@ -549,7 +549,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "apa se absoarbe izoosmotic",
       "E": "vitamina"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 47,
@@ -561,7 +561,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "vitamina B6",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 48,
@@ -573,7 +573,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "datorită vitaminei B12 și a factorului intrinsic",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 49,
@@ -585,7 +585,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "trec în chiliferul central",
       "E": "se absorb sub acțiunea bilei"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 50,
@@ -597,7 +597,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "Fe2+ se absoarbe mai ușor decât Fe3+",
       "E": "are loc în jejun"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 51,
@@ -609,7 +609,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "determină propulsia alimentelor către cardia",
       "E": "sunt controlate de chimul gastric"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 52,
@@ -621,7 +621,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "cuprinde mișcări de du-te-vino ale chimului gastric",
       "E": "are rol important în amestecul alimentelor cu secrețiile gastrice"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 53,
@@ -633,7 +633,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "este incoloră, cu pH-ul cuprins între 1 și 2,5 la adulți",
       "E": "conține substanțe anorganice (0,4%) și organice (0,6%)"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 54,
@@ -645,7 +645,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "glandele oxintice secretă HCl, factor intrinsic, pepsinogen și mucus",
       "E": "glandele oxintice conțin celule G"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 55,
@@ -657,7 +657,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "secretă și factor intrinsic, necesar pentru absorbția intestinală a vitaminei B12",
       "E": "secretă HCl, factor intrinsic, pepsinogen și mucus"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 56,
@@ -669,7 +669,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "sunt localizate doar în regiunea pilorică",
       "E": "secretă HCl și mucus"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 57,
@@ -681,7 +681,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "este inhibată de secretină",
       "E": "este stimulată de gastrină"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 58,
@@ -693,7 +693,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "are rolul de a digera lipidele",
       "E": "este secretat numai la sugar"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 59,
@@ -705,7 +705,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "are nevoie de 3-5 ore pentru a trece de la pilor până la valva ileocecală",
       "E": "se deplasează cu o viteză de 0,5-2 cm/secundă"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 60,
@@ -717,7 +717,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "este produsă zilnic în cantitate de 1.500-2.200 ml",
       "E": "se eliberează în intestinul gros prin sfincterul Oddi"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 61,
@@ -729,7 +729,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "chimotripsinogen",
       "E": "gelatinaza"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 62,
@@ -741,7 +741,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "se reabsorb prin circuitul enterohepatic",
       "E": "sunt liposolubile"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 63,
@@ -753,7 +753,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "intestin subțire",
       "E": "pancreas"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 64,
@@ -765,7 +765,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "are rol de protecție a mucoasei intestinale",
       "E": "conține enzime"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 65,
@@ -777,7 +777,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "lactaza",
       "E": "amilaza"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 66,
@@ -789,7 +789,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "se absorb dacă sunt transformate în picături cu diametrul sub 1μ",
       "E": "ajung prin vena portă la ficat"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 67,
@@ -801,7 +801,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "A",
       "E": "D"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 68,
@@ -813,7 +813,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "conțin colesterol",
       "E": "conțin proteine"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 69,
@@ -825,7 +825,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "se absorb prin sistem de transport activ Na+-dependent",
       "E": "se absorb împreună cu vitaminele liposolubile"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 70,
@@ -837,7 +837,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "colonul nu poate absorbi mai mult de 2-3 l de apă/zi",
       "E": "colonul poate absorbi mai mult de 2-3 l de apă/zi"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 71,
@@ -849,7 +849,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "lipide 25-160 g/zi",
       "E": "proteine 250-800 g/zi"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 72,
@@ -861,7 +861,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "conține doar săruri biliare și electroliți",
       "E": "este secretată în timpul perioadelor digestive"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 73,
@@ -873,7 +873,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "secreției de colecistokinină de către stomac",
       "E": "relaxării sfincterului lui Oddi"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 74,
@@ -885,7 +885,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "absorbția Na+ se face printr-un proces activ",
       "E": "fructoza se absoarbe prin difuziune facilitată"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 75,
@@ -897,7 +897,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "conferă bilei culoarea galbenă",
       "E": "sunt excretați pancreatic"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 76,
@@ -909,7 +909,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "intestinul gros este alcătuit din 3 porțiuni",
       "E": "colonul este alcătuit din 4 porțiuni"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 77,
@@ -921,7 +921,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "laringofaringele",
       "E": "esofagul"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 78,
@@ -933,7 +933,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "splina",
       "E": "rectul"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 79,
@@ -945,7 +945,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "pancreas",
       "E": "colon sigmoid"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 80,
@@ -956,7 +956,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "are fund",
       "E": "se continuă cu jejunul"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 81,
@@ -968,7 +968,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "mucoasa are plici",
       "E": "comunica prin cardia cu duodenul"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 82,
@@ -980,7 +980,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "plicile mucoasei sunt paralele",
       "E": "musculara este dispusă în trei straturi - circular, longitudinal, oblic"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 83,
@@ -992,7 +992,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "glandele gastrice din mucoasa gastrică secretă: pepsinogen, mucus",
       "E": "mucoasa are trei tipuri de glande gastrice"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 84,
@@ -1004,7 +1004,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "adventicea situată profund",
       "E": "glandele Brunner"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 85,
@@ -1016,7 +1016,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "duodenul se continuă cu ileonul",
       "E": "undele peristaltice pot apărea în orice parte a intestinului subțire"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 86,
@@ -1028,7 +1028,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "mișcările intestinului subțire sunt contracții de amestec și propulsie",
       "E": "continuă stomacul prin orificiul cardia"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 87,
@@ -1040,7 +1040,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "ileonul este partea terminală a intestinului subțire",
       "E": "este alcătuit din două porțiuni: jejun, ileon"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 88,
@@ -1052,7 +1052,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "prezintă glande Brunner",
       "E": "se continuă cu ileonul"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 89,
@@ -1064,7 +1064,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "colonul are 3 segmente",
       "E": "colonul are 4 segmente"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 90,
@@ -1076,7 +1076,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "glandelor sublinguale",
       "E": "splinei"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 91,
@@ -1088,7 +1088,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "formarea, lubrifierea și înmuierea bolului alimentar",
       "E": "inhibă secreția gastrică"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 92,
@@ -1100,7 +1100,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "este un act reflex involuntar care se poate desfășura și sub control voluntar",
       "E": "este coordonată de centrii nervoși din trunchiul cerebral"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 93,
@@ -1112,7 +1112,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "0,6% substanțe organice",
       "E": "0,5% reziduu uscat"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 94,
@@ -1124,7 +1124,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "excreția unor substanțe endogene (uree, creatinină, acid uric)",
       "E": "rol bactericid prin lipază"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 95,
@@ -1136,7 +1136,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "glandelor sublinguale",
       "E": "glandelor Brunner"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 96,
@@ -1148,7 +1148,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "timpul gastric",
       "E": "timpul bucal (voluntar)"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 97,
@@ -1160,7 +1160,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "esofag",
       "E": "pilor"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 98,
@@ -1172,7 +1172,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "este rezultatul digestiei esofagiene",
       "E": "este o pastă omogenă"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 99,
@@ -1184,7 +1184,7 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "determină propulsia alimentelor către cardia",
       "E": "se deplasează caudal"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 100,
@@ -1196,6 +1196,6 @@ registerModule("cap7", "Capitol 7 — Digestia", "Întrebări despre digestie", 
       "D": "cuprinde mișcări de du-te-vino ale chimului gastric",
       "E": "are rol în amestecul alimentelor cu secrețiile biliare"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   }
 ]);

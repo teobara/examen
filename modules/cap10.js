@@ -9,7 +9,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "androgenilor",
       "E": "progesteronului"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "foliculi ovarieni",
       "E": "toate cele de mai sus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "mucus",
       "E": "progesteron"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "arterei ombilicale",
       "E": "arterei rușinoase interne"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "vena renală stângă",
       "E": "vena rușinoasă internă dreaptă"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "vena renală dreaptă",
       "E": "vena rușinoasă internă stângă"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "vaginului",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "epiteliu pluristratificat",
       "E": "adventice"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "parametru",
       "E": "termometru"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "arterei rușinoase externe",
       "E": "arterei rușinoase interne"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "pavimentos keratinizat",
       "E": "pavimentos pluristratificat"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "labiilor mici",
       "E": "vaginului"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "câteva zeci",
       "E": "câteva sute"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "sexosteroizi",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "doar la nivelul ovarului",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "după pubertate",
       "E": "în funcție de secreția de progesteron"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "uter",
       "E": "cavitatea abdominală"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "secreția de testosteron",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "spermatogeneza",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "dezvoltarea musculaturii",
       "E": "ovulația"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "scade după 10 zile",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "în ziua 28 a ciclului ovarian",
       "E": "la menopauză"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "7 zile după expulzarea din ovar",
       "E": "28 de zile după expulzarea din ovar"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "ovarul",
       "E": "nu există nicio excepție"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "LH și estrogeni",
       "E": "estrogeni și progesteron"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "canalul epididimar",
       "E": "conductele seminale"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "5-8 g",
       "E": "40 g"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "ductul ejaculator",
       "E": "epididimul"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "uretra",
       "E": "ductul ejaculator"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "piele",
       "E": "peritoneu"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "50-100",
       "E": "3.000-5.000"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "10-20",
       "E": "150-200"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "canalul epididimar",
       "E": "canalele eferente"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "10-20",
       "E": "200-300"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "arterei rușinoase externe",
       "E": "aortei abdominale"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 36,
@@ -429,7 +429,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "tubii seminiferi contorți",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 37,
@@ -441,7 +441,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "la nivelul veziculelor seminale",
       "E": "în prostată"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 38,
@@ -453,7 +453,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "are forma rotundă",
       "E": "produce lichidul seminal"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 39,
@@ -465,7 +465,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "are forma rotundă",
       "E": "produce lichidul seminal"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "este o glandă endocrină",
       "E": "produsul ei de secreție se acumulează în vezica urinară, stânjenind micțiunea odată cu înaintarea în vârstă"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "anusului",
       "E": "testiculelor"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 42,
@@ -501,7 +501,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "trei corpi cavernoși",
       "E": "bulbii vestibulari"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "spermatocitele secundare",
       "E": "celule haploide"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "uretră",
       "E": "penis"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 45,
@@ -537,7 +537,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "estrogeni",
       "E": "niciunul din hormonii de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 46,
@@ -549,7 +549,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "estrogeni",
       "E": "niciunul din hormonii de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 47,
@@ -561,7 +561,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "derivat din cortizol",
       "E": "lipidic"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 48,
@@ -573,7 +573,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "50 milioane de spermatozoizi",
       "E": "10 milioane de spermatozoizi"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 49,
@@ -585,7 +585,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "5-10 ml",
       "E": "18 ml"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 50,
@@ -597,7 +597,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "sistemului nervos simpatic",
       "E": "encefalului"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 51,
@@ -609,7 +609,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "8 g",
       "E": "10 g"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 52,
@@ -621,7 +621,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "7 cm",
       "E": "9 cm"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 53,
@@ -633,7 +633,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "fața medială este acoperită de pavilionul trompei uterine",
       "E": "fața laterală ocupă fosa ovariană"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 54,
@@ -645,7 +645,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "epiteliu simplu",
       "E": "înveliș conjunctiv"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 55,
@@ -657,7 +657,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "epiteliu pluristratificat",
       "E": "epiteliu simplu"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 56,
@@ -669,7 +669,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "fibre nervoase vegetative",
       "E": "vase limfatice"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 57,
@@ -681,7 +681,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "rectul",
       "E": "clitorisul"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 58,
@@ -693,7 +693,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "foliculi cavitari",
       "E": "foliculi terțiari"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 59,
@@ -705,7 +705,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "corpul galben devine în final corp alb, care secretă estrogeni",
       "E": "corpul galben rezultat secretă estrogeni"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 60,
@@ -717,7 +717,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "artera iliacă internă",
       "E": "artera rușinoasă internă"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 61,
@@ -729,7 +729,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "vena renală stângă",
       "E": "vena uterină"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 62,
@@ -741,7 +741,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "prin extremitatea laterală se deschid în ovar",
       "E": "au o extremitate laterală - ostiul uterin"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 63,
@@ -753,7 +753,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "artera mezenterică inferioară",
       "E": "aorta abdominală"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 64,
@@ -765,7 +765,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "prezintă perimetru",
       "E": "prezintă tunică musculară numită miometru formată din musculatură striată"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 65,
@@ -777,7 +777,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "miometru",
       "E": "perimetru"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 66,
@@ -789,7 +789,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "este stratul de susținere al uterului",
       "E": "se reface în următorul ciclu menstrual"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 67,
@@ -801,7 +801,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "vulvă",
       "E": "trompa uterină"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 68,
@@ -813,7 +813,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "epiteliu pavimentos stratificat",
       "E": "fibre musculare netede"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 69,
@@ -825,7 +825,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "este delimitat de labiile mari",
       "E": "este delimitat de labiile mici"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 70,
@@ -837,7 +837,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "uretra",
       "E": "bulbii vestibulari"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 71,
@@ -849,7 +849,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "stimulează depunerea de grăsime",
       "E": "stimulează secreția lactată"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 72,
@@ -861,7 +861,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "este reprezentată de secreția de estrogeni",
       "E": "este reprezentată de secreția de progesteron"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 73,
@@ -873,7 +873,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "tubii seminiferi contorți",
       "E": "tubii seminiferi drepți"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 74,
@@ -885,7 +885,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "rețeaua testiculară",
       "E": "canalul epididimar"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 75,
@@ -897,7 +897,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "rețeaua testiculară",
       "E": "canalul epididimar"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 76,
@@ -909,7 +909,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "se termină la baza prostatei",
       "E": "se unește cu canalul veziculei seminale"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 77,
@@ -921,7 +921,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "glandul penian",
       "E": "veziculele seminale"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 78,
@@ -933,7 +933,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "are lățime de 4-5 cm",
       "E": "are un duct care se deschide în uretră"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 79,
@@ -945,7 +945,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "un corp spongios",
       "E": "corpul penisului"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 80,
@@ -957,7 +957,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "provine din artera rușinoasă internă",
       "E": "provine din artera scrotală"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 81,
@@ -969,7 +969,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "se mai numește adolescență",
       "E": "implică modificări sociale și comportamentale complexe"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 82,
@@ -981,7 +981,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "diviziuni ecuaționale și reducționale la nivelul ovocitului",
       "E": "diviziuni ecuaționale și reducționale la nivelul ovogoniilor"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 83,
@@ -993,7 +993,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "modificări histologice și secretorii la nivelul mucoasei uterine",
       "E": "favorizează activitatea osteoblastică"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 84,
@@ -1005,7 +1005,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "favorizează păstrarea sarcinii",
       "E": "modificări histologice și secretorii la nivelul corpului galben"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 85,
@@ -1017,7 +1017,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "ovogonii",
       "E": "coroana radiata"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 86,
@@ -1029,7 +1029,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "celulele tecii interne a foliculului ovarian",
       "E": "corpul galben"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 87,
@@ -1041,7 +1041,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "ACTH",
       "E": "LH"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 88,
@@ -1053,7 +1053,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "spermatocitul terțiar",
       "E": "spermatocitul secundar"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 89,
@@ -1065,7 +1065,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "crește durata de viață a spermatozoizilor",
       "E": "crește mobilitatea spermatozoizilor"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 90,
@@ -1077,7 +1077,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "are structură sterolică",
       "E": "influențează modul de dispunere a părului"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 91,
@@ -1089,7 +1089,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "spermatogonii",
       "E": "ejaculatul"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 92,
@@ -1101,7 +1101,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "canalului deferent",
       "E": "tubilor contorți distali"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 93,
@@ -1113,7 +1113,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "măduvei sacrate",
       "E": "măduvei cervicale"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 94,
@@ -1125,7 +1125,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "avortul",
       "E": "histerectomie"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 95,
@@ -1136,7 +1136,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "C": "implanturile hormonale subdermice",
       "D": "ligatura trompelor uterineE. histerectomie"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 96,
@@ -1148,7 +1148,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "are loc în apropierea capătului dinspre ovar al trompei uterine",
       "E": "are loc în apropierea capătului dinspre uter al trompei uterine"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 97,
@@ -1160,7 +1160,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "sistemul digestiv",
       "E": "sistemul respirator"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 98,
@@ -1172,7 +1172,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "sistemul excretor",
       "E": "sistemul respirator"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 99,
@@ -1184,7 +1184,7 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "sistemul reproducător",
       "E": "tegumentul"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 100,
@@ -1196,6 +1196,6 @@ registerModule("cap10", "Capitol 10 — Sistemul Reproducător", "Întrebări de
       "D": "diafragma",
       "E": "drepți abdominali"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   }
 ]);

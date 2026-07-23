@@ -9,7 +9,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "bifocale",
       "E": "heliomate"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "emisferele cerebrale",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "contracția mușchilor radiari ai irisului urmată de mioză",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "astigmat",
       "E": "prezbit"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "căii vizuale",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "talamus",
       "E": "bulb"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "depinde de localizarea defectului",
       "E": "corpul vitros"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "iodopsina",
       "E": "vitamina A"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "5-6 minute",
       "E": "10 minute"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "depinde de cantitatea de iodopsină",
       "E": "asigură vederea fotopică"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "scade cantitatea de retinen care este transformată în vitamina A",
       "E": "nu se întâmplă nimic"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "crește sensibilitatea la întuneric",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "hemianopsie",
       "E": "daltonism"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "hemianopsie",
       "E": "daltonism"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "hemianopsie",
       "E": "daltonism"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "lumină albă",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "roșu și galben",
       "E": "verde și roșu"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "celulele ganglionare din retină",
       "E": "celulele pigmentare din retină"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "celulele din corpul geniculat extern",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "retină",
       "E": "mezencefal"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "sacula",
       "E": "canaliculele semicirculare"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "rapid",
       "E": "deloc"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "poziției corpului",
       "E": "tonusul muscular"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "membrana limitantă externă",
       "E": "stratul fibrelor nervului optic"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "medial",
       "E": "anterior"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "jumătatea temporală a retinei de partea superioara",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "rampa vestibulară",
       "E": "rampa timpanică"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "melcul membranos",
       "E": "protoneuronii căii auditive"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "membranei timpanului",
       "E": "osului parietal"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "ligamentul spinal",
       "E": "timpanică"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "utriculă",
       "E": "helicotremă"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "superior și inferior",
       "E": "anterior și posterior"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "melcul membranos",
       "E": "ampulele canalelor semicirculare"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "rampa vestibulară",
       "E": "rampa timpanică"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "superior",
       "E": "inferior"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 36,
@@ -429,7 +429,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "vestibulul osos",
       "E": "canalele semicirculare osoase"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 37,
@@ -441,7 +441,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "coliculului superior",
       "E": "epitalamusului"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 38,
@@ -453,7 +453,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "precentral",
       "E": "calcarin"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 39,
@@ -465,7 +465,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "cinci",
       "E": "șase"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "vestibulo-rubric",
       "E": "longitudinal dorsal"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "vestibulo-reticular",
       "E": "longitudinal medial"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 42,
@@ -501,7 +501,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "depinde de înălțimea sunetului",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "membrana tectoria",
       "E": "cupolele gelatinoase"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "membrana tectoria",
       "E": "celulele de susținere"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 45,
@@ -537,7 +537,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "baroreceptori",
       "E": "presoreceptori"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 46,
@@ -549,7 +549,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "accelerațiile liniare",
       "E": "accelerațiilor semicirculare"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 47,
@@ -561,7 +561,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "20 Hz",
       "E": "20.000 Hz"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 48,
@@ -573,7 +573,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "20 db",
       "E": "130 C"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 49,
@@ -585,7 +585,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "20 db",
       "E": "130 db"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 50,
@@ -597,7 +597,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "350 și 760 nm",
       "E": "340 și 750 nm"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 51,
@@ -609,7 +609,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "corpusculii Krause",
       "E": "discurile Merkel"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 52,
@@ -621,7 +621,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "absentă",
       "E": "slabă"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 53,
@@ -633,7 +633,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "are sinapse puține",
       "E": "conduce impulsurile lent"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 54,
@@ -645,7 +645,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "conține receptori de presiune",
       "E": "conține terminații nervoase libere care sunt axoni ai neuronilor senzitivi din ganglionul spinal"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 55,
@@ -657,7 +657,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "un strat germinativ, superficial",
       "E": "un epiteliu de tip pavimentos"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 56,
@@ -669,7 +669,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "corpusculi Krause",
       "E": "glomerulii glandelor sudoripare"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 57,
@@ -681,7 +681,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "adipos",
       "E": "fibros"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 58,
@@ -693,7 +693,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "recepționează temperatura",
       "E": "sunt situați la nivelul hipodermului"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 59,
@@ -705,7 +705,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "se adaptează rapid în prezența stimulului",
       "E": "participă la formarea corpusculilor Golgi-Mazzoni"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 60,
@@ -717,7 +717,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "pentru presiune",
       "E": "pentru sensibilitatea vibratorie"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 61,
@@ -729,7 +729,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "sunt situați profund în derm",
       "E": "sunt receptori pentru rece"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 62,
@@ -741,7 +741,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "sunt situați superficial în derm",
       "E": "sunt situați în hipoderm"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 63,
@@ -753,7 +753,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "este maximă la față",
       "E": "este maximă la vârful limbii"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 64,
@@ -765,7 +765,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "sunt o varietate a corpusculilor Vater-Pacini",
       "E": "sunt receptori pentru cald"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 65,
@@ -777,7 +777,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "sunt terminații nervoase libere",
       "E": "sunt corpusculi Ruffini"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 66,
@@ -789,7 +789,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "situați în toată grosimea capsulei articulare",
       "E": "stimulați de întinderea puternică a tendonului"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 67,
@@ -801,7 +801,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "sunt situați la joncțiunea mușchi-tendon",
       "E": "previn alungirea exagerată a tendoanelor"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 68,
@@ -813,7 +813,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "fibre senzitive anulospinale",
       "E": "fibre cu sac nuclear"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 69,
@@ -825,7 +825,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "neuronii din lanțul paravertebral",
       "E": "neuronii gama din măduva spinării"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 70,
@@ -837,7 +837,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "este inervată de fibre senzitive anulospirale",
       "E": "este inervată de neuronii gama din măduva spinării"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 71,
@@ -849,7 +849,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "activării fusurilor neuromusculare",
       "E": "relaxarea tendoanelor mușchilor"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 72,
@@ -861,7 +861,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "spinocerebeloase dorsale",
       "E": "spinobulbare ventrale"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 73,
@@ -873,7 +873,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "sunt celule pseudonipolare",
       "E": "au rol de prim neuron pe calea olfactivă"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 74,
@@ -885,7 +885,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "sunt situați în toată cavitatea nazală",
       "E": "axonul străbate lama ciuruită a etmoidului și se termină în bulbul olfactiv cu o veziculă - butonul olfactiv"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 75,
@@ -897,7 +897,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "la nivelul nucleului amigdalian",
       "E": "pe fața laterală a lobului temporal"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 76,
@@ -909,7 +909,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "5 mirosuri primare",
       "E": "4 mirosuri fundamentale"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 77,
@@ -921,7 +921,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "fac sinapsă cu celulele mitrale",
       "E": "este scurtă și groasă"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 78,
@@ -933,7 +933,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "să fie volatilă",
       "E": "să nu fie nocivă"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 79,
@@ -945,7 +945,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "informează asupra calității alimentelor introduse în cavitatea bucală",
       "E": "declanșarea reflexului condiționat la un stimul inițial indiferent"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 80,
@@ -957,7 +957,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "sunt papile caliciforme, fungiforme și foliate",
       "E": "prezintă la polul apical un microvil"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 81,
@@ -969,7 +969,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "fac sinapsă cu axoni ai nervilor facial, glosofaringian și vag",
       "E": "se găsesc în papilele foliate"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 82,
@@ -981,7 +981,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "gustativi",
       "E": "facial"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 83,
@@ -993,7 +993,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "girul temporal superior",
       "E": "lobul parietal"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 84,
@@ -1005,7 +1005,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "acru",
       "E": "umami"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 85,
@@ -1017,7 +1017,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "deschiderii canalelor ionice",
       "E": "pătrunderii în celulă a salivei"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 86,
@@ -1029,7 +1029,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "pupila se contractă",
       "E": "mușchiul ciliar este relaxat"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 87,
@@ -1041,7 +1041,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "are nutriția realizată prin difuziune",
       "E": "are o putere dioptrică de aproximativ 40 de dioptrii"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 88,
@@ -1053,7 +1053,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "cornee, cristalin, retină",
       "E": "corp vitros, cristalin, umoare apoasă"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 89,
@@ -1065,7 +1065,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "se găsește în camerele anterioară și posterioară",
       "E": "are rol nutritiv pentru retină"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 90,
@@ -1077,7 +1077,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "se găsesc în toată retina",
       "E": "conțin rodopsină"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 91,
@@ -1089,7 +1089,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "posterior de ora serrata",
       "E": "anterior de ora serrata"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 92,
@@ -1101,7 +1101,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "celulele cu conuri, cu bastonașe și celulele amacrine",
       "E": "celulele pigmentare, celulele amacrine"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 93,
@@ -1113,7 +1113,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "corp ciliar, iris",
       "E": "corp ciliar, cristalin"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 94,
@@ -1125,7 +1125,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "pata galbenă",
       "E": "corneea"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 95,
@@ -1137,7 +1137,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "prezintă receptori vizuali pe toată suprafața sa",
       "E": "are 10 straturi"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 96,
@@ -1149,7 +1149,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "este bogat vascularizată",
       "E": "este perforată de artera centrală a retinei care intră în globul ocular"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 97,
@@ -1161,7 +1161,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "colorat",
       "E": "folosind cea mai mare rază de curbă a cristalinului"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 98,
@@ -1173,7 +1173,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "pentru vedere clară, persoana depărtează obiectele",
       "E": "pentru vedere clară, persoana apropie obiectele"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 99,
@@ -1185,7 +1185,7 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "pentru vedere clară, persoana depărtează obiectele de ochi",
       "E": "pentru vedere clară, persoana apropie obiectele de ochi"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 100,
@@ -1197,6 +1197,6 @@ registerModule("cap3", "Capitol 3 — Analizatorii", "Întrebări despre analiza
       "D": "pentru vedere clară, persoana depărtează obiectele de ochi",
       "E": "pentru vedere clară, persoana apropie obiectele de ochi"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   }
 ]);

@@ -228,6 +228,34 @@ header p { color: var(--text-dim); font-size: 0.95rem; }
 .option-btn.answered { cursor: default; }
 .option-btn.answered.dimmed { opacity: 0.45; }
 
+.multi-hint {
+  display: inline-block;
+  background: rgba(108,92,231,0.12);
+  color: var(--accent);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: 6px;
+  margin-top: 10px;
+}
+
+.confirm-btn {
+  display: none;
+  width: 100%;
+  margin-top: 12px;
+  background: var(--accent);
+  border: none;
+  color: #fff;
+  padding: 14px 28px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: background 0.15s;
+}
+.confirm-btn:hover { background: var(--accent-hover); }
+.confirm-btn.visible { display: block; }
+
 .feedback {
   margin-top: 16px;
   padding: 14px 18px;
@@ -400,6 +428,7 @@ header p { color: var(--text-dim); font-size: 0.95rem; }
         <h2 id="question-text"></h2>
       </div>
       <div class="options-list" id="options-list"></div>
+      <button class="confirm-btn" id="confirm-btn" onclick="confirmMultiAnswer()">Verifică</button>
       <div class="feedback" id="feedback"></div>
     </div>
 
@@ -427,6 +456,7 @@ const MODULES = {};
 let currentModule = null;
 let currentIndex = 0;
 let state = {};
+let multiSelected = [];
 
 function loadState() {
   try {
@@ -446,12 +476,20 @@ function getModuleState(moduleId) {
   return state[moduleId];
 }
 
+function getCorrectArray(q) {
+  if (Array.isArray(q.correct)) return q.correct;
+  return [q.correct];
+}
+
+function isMulti(q) {
+  return getCorrectArray(q).length > 1;
+}
+
 function shuffleOptions(question) {
   const entries = Object.entries(question.options);
-  const correctText = question.options[question.correct];
-  const originalLetterOfCorrect = question.correct;
+  const correctArr = getCorrectArray(question);
+  const correctTexts = correctArr.map(c => question.options[c]);
 
-  // Shuffle using Fisher-Yates
   for (let i = entries.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [entries[i], entries[j]] = [entries[j], entries[i]];
@@ -459,24 +497,13 @@ function shuffleOptions(question) {
 
   const letters = ['A', 'B', 'C', 'D', 'E'].slice(0, entries.length);
   let shuffled = {};
-  let newCorrect = null;
+  let newCorrect = [];
 
   for (let i = 0; i < entries.length; i++) {
     shuffled[letters[i]] = entries[i][1];
-    if (entries[i][1] === correctText) {
-      newCorrect = letters[i];
+    if (correctTexts.includes(entries[i][1])) {
+      newCorrect.push(letters[i]);
     }
-  }
-
-  // Ensure the correct answer is NOT at the same letter as the original
-  if (newCorrect === originalLetterOfCorrect && entries.length > 1) {
-    // Swap the correct answer with the next position
-    const correctIdx = letters.indexOf(newCorrect);
-    const swapIdx = (correctIdx + 1) % entries.length;
-    const tempText = shuffled[letters[swapIdx]];
-    shuffled[letters[swapIdx]] = shuffled[letters[correctIdx]];
-    shuffled[letters[correctIdx]] = tempText;
-    newCorrect = letters[swapIdx];
   }
 
   return { options: shuffled, correct: newCorrect };
@@ -521,7 +548,6 @@ function startModule(moduleId) {
   document.getElementById('home-view').style.display = 'none';
   document.getElementById('quiz-view').style.display = 'block';
 
-  // Find first unanswered question
   const ms = getModuleState(moduleId);
   const questions = MODULES[moduleId].questions;
   for (let i = 0; i < questions.length; i++) {
@@ -542,8 +568,11 @@ function renderQuestion() {
   const q = mod.questions[currentIndex];
   const questionArea = document.getElementById('question-area');
   const completionCard = document.getElementById('completion-card');
+  const confirmBtn = document.getElementById('confirm-btn');
 
-  // Check if all answered
+  multiSelected = [];
+  confirmBtn.classList.remove('visible');
+
   const allAnswered = mod.questions.every(q => ms.answers[q.id]);
   if (allAnswered) {
     questionArea.style.display = 'none';
@@ -566,39 +595,51 @@ function renderQuestion() {
   document.getElementById('prev-btn').disabled = currentIndex === 0;
   document.getElementById('next-btn').disabled = currentIndex === mod.questions.length - 1;
 
-  document.getElementById('question-text').textContent = q.question;
+  const multiQ = isMulti(q);
+  const correctCount = getCorrectArray(q).length;
+  const qText = document.getElementById('question-text');
+  qText.textContent = q.question;
+
+  if (multiQ && !ms.answers[q.id]) {
+    const hint = document.createElement('div');
+    hint.className = 'multi-hint';
+    hint.textContent = `Selectează ${correctCount} răspunsuri`;
+    qText.parentNode.appendChild(hint);
+  } else {
+    const oldHint = qText.parentNode.querySelector('.multi-hint');
+    if (oldHint) oldHint.remove();
+  }
 
   const existing = ms.answers[q.id];
   const optList = document.getElementById('options-list');
   optList.innerHTML = '';
 
-  // Shuffle or use stored shuffle
   let shuffled;
   if (existing) {
     shuffled = existing.shuffled;
+  } else if (ms.shuffles && ms.shuffles[q.id]) {
+    shuffled = ms.shuffles[q.id];
   } else {
     shuffled = shuffleOptions(q);
-    // Store the shuffle so re-visiting shows same order
     if (!ms.shuffles) ms.shuffles = {};
     ms.shuffles[q.id] = shuffled;
     saveState();
   }
 
-  // If not answered yet but we have a stored shuffle, use it
-  if (!existing && ms.shuffles && ms.shuffles[q.id]) {
-    shuffled = ms.shuffles[q.id];
-  }
-
+  const correctLetters = Array.isArray(shuffled.correct) ? shuffled.correct : [shuffled.correct];
   const letters = Object.keys(shuffled.options).sort();
+
   letters.forEach(letter => {
     const btn = document.createElement('button');
     btn.className = 'option-btn';
+    btn.dataset.letter = letter;
 
     if (existing) {
       btn.classList.add('answered');
-      if (letter === shuffled.correct) {
+      const chosenArr = Array.isArray(existing.chosen) ? existing.chosen : [existing.chosen];
+      if (correctLetters.includes(letter)) {
         btn.classList.add('correct-answer');
-      } else if (letter === existing.chosen && letter !== shuffled.correct) {
+      } else if (chosenArr.includes(letter)) {
         btn.classList.add('wrong-answer');
       } else {
         btn.classList.add('dimmed');
@@ -611,7 +652,11 @@ function renderQuestion() {
     `;
 
     if (!existing) {
-      btn.onclick = () => answerQuestion(q, shuffled, letter);
+      if (multiQ) {
+        btn.onclick = () => toggleMultiOption(letter, correctCount);
+      } else {
+        btn.onclick = () => answerSingle(q, shuffled, letter);
+      }
     }
 
     optList.appendChild(btn);
@@ -625,14 +670,77 @@ function renderQuestion() {
       feedback.textContent = '✓ Răspuns corect!';
     } else {
       feedback.className = 'feedback wrong';
-      feedback.textContent = `✗ Răspuns greșit. Răspunsul corect era: ${shuffled.correct}`;
+      feedback.textContent = `✗ Răspuns greșit. Răspunsurile corecte erau: ${correctLetters.sort().join(', ')}`;
     }
   }
 }
 
-function answerQuestion(q, shuffled, chosenLetter) {
+function toggleMultiOption(letter, maxSelect) {
+  const idx = multiSelected.indexOf(letter);
+  if (idx >= 0) {
+    multiSelected.splice(idx, 1);
+  } else {
+    if (multiSelected.length >= maxSelect) return;
+    multiSelected.push(letter);
+  }
+
+  document.querySelectorAll('.option-btn').forEach(btn => {
+    if (multiSelected.includes(btn.dataset.letter)) {
+      btn.classList.add('selected');
+    } else {
+      btn.classList.remove('selected');
+    }
+  });
+
+  const confirmBtn = document.getElementById('confirm-btn');
+  if (multiSelected.length === maxSelect) {
+    confirmBtn.classList.add('visible');
+  } else {
+    confirmBtn.classList.remove('visible');
+  }
+}
+
+function confirmMultiAnswer() {
+  const mod = MODULES[currentModule];
+  const q = mod.questions[currentIndex];
   const ms = getModuleState(currentModule);
-  const isCorrect = chosenLetter === shuffled.correct;
+
+  let shuffled;
+  if (ms.shuffles && ms.shuffles[q.id]) {
+    shuffled = ms.shuffles[q.id];
+  }
+  if (!shuffled) return;
+
+  const correctLetters = Array.isArray(shuffled.correct) ? shuffled.correct : [shuffled.correct];
+  const chosen = [...multiSelected].sort();
+  const correct = [...correctLetters].sort();
+  const isCorrect = chosen.length === correct.length && chosen.every((v, i) => v === correct[i]);
+
+  if (isCorrect) ms.correct++;
+  else ms.wrong++;
+
+  ms.answers[q.id] = { chosen: multiSelected, isCorrect, shuffled };
+  saveState();
+
+  renderQuestion();
+  renderProgress();
+  updateScore();
+
+  if (!isCorrect) return;
+  setTimeout(() => {
+    const mod = MODULES[currentModule];
+    if (currentIndex < mod.questions.length - 1) {
+      currentIndex++;
+      renderQuestion();
+      renderProgress();
+    }
+  }, 800);
+}
+
+function answerSingle(q, shuffled, chosenLetter) {
+  const ms = getModuleState(currentModule);
+  const correctLetters = Array.isArray(shuffled.correct) ? shuffled.correct : [shuffled.correct];
+  const isCorrect = correctLetters.includes(chosenLetter);
 
   if (isCorrect) ms.correct++;
   else ms.wrong++;
@@ -644,7 +752,6 @@ function answerQuestion(q, shuffled, chosenLetter) {
   renderProgress();
   updateScore();
 
-  // Auto-advance after a short delay if answered
   if (!isCorrect) return;
   setTimeout(() => {
     const mod = MODULES[currentModule];
@@ -708,7 +815,6 @@ function resetModule() {
   updateScore();
 }
 
-// Keyboard navigation
 document.addEventListener('keydown', e => {
   if (!currentModule) return;
   if (e.key === 'ArrowLeft') navigate(-1);
@@ -725,6 +831,11 @@ document.addEventListener('keydown', e => {
     const btns = document.querySelectorAll('.option-btn:not(.answered)');
     if (btns[idx]) btns[idx].click();
   }
+
+  if (e.key === 'Enter') {
+    const confirmBtn = document.getElementById('confirm-btn');
+    if (confirmBtn.classList.contains('visible')) confirmBtn.click();
+  }
 });
 
 // Init
@@ -732,18 +843,18 @@ loadState();
 </script>
 
 <!-- Module data will be loaded from separate JS files -->
-<script src="modules/cap1.js?v=7"></script>
-<script src="modules/cap2.js?v=7"></script>
-<script src="modules/cap3.js?v=7"></script>
-<script src="modules/cap4.js?v=7"></script>
-<script src="modules/cap5.js?v=7"></script>
-<script src="modules/cap6.js?v=7"></script>
-<script src="modules/cap7.js?v=7"></script>
-<script src="modules/cap8.js?v=7"></script>
-<script src="modules/cap9.js?v=7"></script>
-<script src="modules/cap10.js?v=7"></script>
-<script src="modules/cap11.js?v=7"></script>
-<script src="modules/combinat.js?v=7"></script>
+<script src="modules/cap1.js?v=8"></script>
+<script src="modules/cap2.js?v=8"></script>
+<script src="modules/cap3.js?v=8"></script>
+<script src="modules/cap4.js?v=8"></script>
+<script src="modules/cap5.js?v=8"></script>
+<script src="modules/cap6.js?v=8"></script>
+<script src="modules/cap7.js?v=8"></script>
+<script src="modules/cap8.js?v=8"></script>
+<script src="modules/cap9.js?v=8"></script>
+<script src="modules/cap10.js?v=8"></script>
+<script src="modules/cap11.js?v=8"></script>
+<script src="modules/combinat.js?v=8"></script>
 
 <script>
 // After all modules are loaded, render home

@@ -9,7 +9,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "traheea",
       "E": "bronhiile"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "cavitatea bucală",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "cavitatea bucală",
       "E": "limba și vălul palatin"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "bronhiile",
       "E": "cavitatea bucală"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "8-10 cm",
       "E": "14-16 cm"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "T3",
       "E": "T1"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "pneumoperitoneu",
       "E": "pia mater"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "săculeții alveolari",
       "E": "alveolele pulmonare"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "gaze respiratorii",
       "E": "limfă"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "săculeții alveolari",
       "E": "ductele alveolare"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "aprovizionarea cu oxigen a organismului",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "mușchilor dințați",
       "E": "toate cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "mușchilor inspiratori",
       "E": "mușchilor expiratori"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "contracția mușchilor expiratori",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "25%",
       "E": "15%"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "drepții abdominali",
       "E": "mușchii gâtului"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "variază cu fazele respirației",
       "E": "scade în expir"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "400 ml aer",
       "E": "100 ml aer"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "de 4-5 s",
       "E": "mai mică decât inspirația normală"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "1-2 s",
       "E": "3 s"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "1.000 ml",
       "E": "2.000 ml"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "1.000 ml",
       "E": "2.000 ml"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "1.000 ml",
       "E": "2.000 ml"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "1.000 ml",
       "E": "2.000 ml"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "500 ml",
       "E": "3.000 ml"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "500 ml",
       "E": "3.000 ml"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "500 ml",
       "E": "3.000 ml"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "2.500 ml",
       "E": "3.000 ml"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "inspirator de rezervă și rezidual",
       "E": "curent și expirator de rezervă"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "expirator de rezervă și rezidual",
       "E": "curent și expirator de rezervă"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "curent, expirator de rezervă și rezidual",
       "E": "expirator de rezervă și rezidual"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "expirator de rezervă și rezidual",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "volumul rezidual",
       "E": "capacitatea inspiratorie"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "18 L/min",
       "E": "6 L/min"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 36,
@@ -429,7 +429,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "18 L/min",
       "E": "6 L/min"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 37,
@@ -441,7 +441,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "6 L/min",
       "E": "4-4,5 L/min"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 38,
@@ -453,7 +453,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "epiteliul alveolar",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 39,
@@ -465,7 +465,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "0,7 microni",
       "E": "0,8 microni"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "30-50 m²",
       "E": "40-60 m²"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "5-6 mm Hg",
       "E": "100 mm Hg"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 42,
@@ -501,7 +501,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "5-6 mm Hg",
       "E": "100 mm Hg"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "5-6 mm Hg",
       "E": "100 mm Hg"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "5-6 mm Hg",
       "E": "100 mm Hg"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 45,
@@ -537,7 +537,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "6-8 g/dl sânge",
       "E": "10-15 g/dl sânge"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 46,
@@ -549,7 +549,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "95%",
       "E": "100%"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 47,
@@ -561,7 +561,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "98 ml O2",
       "E": "12 ml O2"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 48,
@@ -573,7 +573,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "ionilor de fier ai hemoglobinei",
       "E": "capilarul sangvin"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 49,
@@ -585,7 +585,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "98%",
       "E": "90%"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 50,
@@ -597,7 +597,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "10%",
       "E": "95%"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 51,
@@ -609,7 +609,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "plămâni",
       "E": "esofag"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 52,
@@ -621,7 +621,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "14 cm",
       "E": "16 cm"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 53,
@@ -633,7 +633,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "coaste",
       "E": "cavitatea pleurală"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 54,
@@ -645,7 +645,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "foița viscerală a pleurei",
       "E": "foița parietală a pleurei"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 55,
@@ -657,7 +657,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "săculeț alveolar",
       "E": "lichid pleural"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 56,
@@ -669,7 +669,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "surfactant",
       "E": "acini pulmonari"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 57,
@@ -681,7 +681,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "scurtare",
       "E": "ridicare"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 58,
@@ -693,7 +693,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "arborelui bronșic",
       "E": "traheei"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 59,
@@ -705,7 +705,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "transvers abdominal",
       "E": "drepții abdominali"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 60,
@@ -717,7 +717,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "4 secunde",
       "E": "5 secunde"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 61,
@@ -729,7 +729,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "variază cu fazele respiratorii",
       "E": "este presiunea din spațiul cuprins între pleură și peretele toracic"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 62,
@@ -741,7 +741,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "în inspir scade sub cea atmosferică",
       "E": "în repaus scade sub cea atmosferică"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 63,
@@ -753,7 +753,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "forțele elastice ale peretelui toracic",
       "E": "forțele elastice ale țesutului pulmonar"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 64,
@@ -765,7 +765,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "coastele coboară",
       "E": "sternul se apropie de coloana vertebrală"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 65,
@@ -777,7 +777,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "coastele coboară",
       "E": "sternul se îndepărtează de coloana vertebrală"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 66,
@@ -789,7 +789,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "diafragma se contractă",
       "E": "presiunea alveolară scade"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 67,
@@ -801,7 +801,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "echilibrarea ventilației",
       "E": "deplasarea aerului în ambele sensuri între alveolele pulmonare și atmosferă"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 68,
@@ -813,7 +813,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "surfactant",
       "E": "nutrienți"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 69,
@@ -825,7 +825,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "atmosfera",
       "E": "cavitatea bucală"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 70,
@@ -837,7 +837,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "traheea",
       "E": "cavitatea bucală"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 71,
@@ -849,7 +849,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "bronhiole",
       "E": "alveole pulmonare"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 72,
@@ -861,7 +861,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "alveole pulmonare",
       "E": "vase bronșice"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 73,
@@ -873,7 +873,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "minut-volumul respirator",
       "E": "volumul expirator curent"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 74,
@@ -885,7 +885,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "minut-volumul respirator",
       "E": "volumul expirator de rezervă"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 75,
@@ -897,7 +897,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "volumul rezidual",
       "E": "volumul curent"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 76,
@@ -909,7 +909,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "volumul rezidual",
       "E": "volumul total"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 77,
@@ -921,7 +921,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "volumul rezidual",
       "E": "volumul total"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 78,
@@ -933,7 +933,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "volumul rezidual",
       "E": "volumul total"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 79,
@@ -945,7 +945,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "volumul curent",
       "E": "volumul rezidual"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 80,
@@ -957,7 +957,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "frecvența cardiacă",
       "E": "capacitatea pulmonară totală"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 81,
@@ -969,7 +969,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "capacitatea pulmonară totală",
       "E": "capacitatea respiratorie"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 82,
@@ -981,7 +981,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "capacitatea pulmonară totală",
       "E": "capacitatea respiratorie"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 83,
@@ -993,7 +993,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "capacitatea pulmonară totală",
       "E": "capacitatea respiratory"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 84,
@@ -1005,7 +1005,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "volumul rezidual",
       "E": "capacitatea vitală"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 85,
@@ -1017,7 +1017,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "5.000 ml",
       "E": "5.500 ml"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 86,
@@ -1029,7 +1029,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "nu participă la schimburile de aer",
       "E": "are un volum de mediu de 4,5-5 litri"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 87,
@@ -1041,7 +1041,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "aerul alveolar primește în permanență O2 din sângele pulmonar",
       "E": "aerul atmosferic este umezit înainte de a ajunge la alveole"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 88,
@@ -1053,7 +1053,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "lichid tensioactiv",
       "E": "hematii"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 89,
@@ -1065,7 +1065,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "grosimea membranei respiratorii",
       "E": "timpul petrecut de hematie în capilarul alveolar"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 90,
@@ -1077,7 +1077,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "CO2 - 46 mm Hg",
       "E": "CO2 - 40 mm Hg"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 91,
@@ -1089,7 +1089,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "CO2 - 46 mm Hg",
       "E": "CO2 - 40 mm Hg"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 92,
@@ -1101,7 +1101,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "CO2 - 46 mm Hg",
       "E": "CO2 - 40 mm Hg"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 93,
@@ -1113,7 +1113,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "gradientul de difuziune al CO2 este de 10 ori mai mic ca al O2",
       "E": "O2 este de 25 de ori mai solubil în lichidele organismului decât CO2"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 94,
@@ -1125,7 +1125,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "18 g/dl",
       "E": "20 g/dl"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 95,
@@ -1137,7 +1137,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "1,5% dizolvat în plasmă",
       "E": "1,5% combinat reversibil cu ionii de fier"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 96,
@@ -1149,7 +1149,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "calibrul vascular",
       "E": "presiunea sangvină"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 97,
@@ -1161,7 +1161,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "rezultat în urma fenomenului de membrană Hamburger",
       "E": "sub formă de carbaminohemoglobină"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 98,
@@ -1173,7 +1173,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "mezencefal",
       "E": "emisferele cerebrale"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 99,
@@ -1185,7 +1185,7 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "1,34 ml",
       "E": "20%"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 100,
@@ -1197,6 +1197,6 @@ registerModule("cap6", "Capitol 6 — Aparatul Respirator", "Întrebări despre 
       "D": "12%",
       "E": "98,5%"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   }
 ]);

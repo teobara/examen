@@ -9,7 +9,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "unități morfologice",
       "E": "viscere"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "drept abdominal",
       "E": "mediastin"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "fesă",
       "E": "cavitatea pleurală"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "20-40 μ",
       "E": "30-40 μ"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "vilozități",
       "E": "microvili"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "sistem circulator intracitoplasmatic",
       "E": "sediul sintezei proteice"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "sunt sediul fosforilării oxidative",
       "E": "sunt sediul sintezei proteice"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "excreția unor substanțe celulare",
       "E": "rol în diviziunea celulară"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "excreția unor substanțe celulare",
       "E": "niciuna din variantele de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "numărul de nuclei depinde de starea de activitate",
       "E": "binucleate"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "trinucleată",
       "E": "mononucleată"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "prezenți în corpul celular și dendrite",
       "E": "echivalenți ai ergastoplasmei pentru celula nervoasă"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "N₂",
       "E": "glucoza"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "difuziunea facilitată",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "-60 mV până la -80 mV",
       "E": "60 mV până la 80 mV"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "este un răspuns de tip „tot sau nimic”",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "metabolism celular",
       "E": "toate sunt proprietăți generale"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "impuls nervos",
       "E": "potențial de acțiune"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "consecința potențialului membranar de repaus",
       "E": "intervalul de timp pe parcursul căruia este dificil de obținut un potențial de acțiune"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "2 molecule de ATP",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "se înmagazinează în acid piruvic",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "la finalul acestui proces se obțin 32 molecule de ATP",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "acizi grași",
       "E": "trigliceride"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "9,1 kcal",
       "E": "4,1 kcal"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "glucoza",
       "E": "acizii grași"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "prin glicoliză",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "hormonii tiroidieni",
       "E": "cortizolul"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "2.000 kcal",
       "E": "4.000 kcal"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "STH",
       "E": "cortizolul"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "9,1 kcal",
       "E": "6,5 kcal"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "peste 1/2 din masa corporală",
       "E": "1/4 din masa corporală"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 36,
@@ -429,7 +429,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "tiroxina",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 37,
@@ -441,7 +441,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "majoritatea substanțelor „active” din organism sunt de natură proteică",
       "E": "niciuna din variantele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 38,
@@ -453,7 +453,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "testosteronul",
       "E": "cortizolul"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 39,
@@ -465,7 +465,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "estrogenii",
       "E": "testosteronul"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "4,3 kcal",
       "E": "4,1 kcal"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "1.300 cal/mol",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 42,
@@ -501,7 +501,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "3.500 kcal",
       "E": "3.000 kcal"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "5.500-6.500 kcal",
       "E": "4.000-5.000 kcal"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 45,
@@ -537,7 +537,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "energetic",
       "E": "metabolic"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 46,
@@ -549,7 +549,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "TSH",
       "E": "tiroxină"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 47,
@@ -561,7 +561,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "50% glucide, 35% lipide și 15% proteine",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 48,
@@ -573,7 +573,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "emisferele cerebrale",
       "E": "hipotalamus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 49,
@@ -585,7 +585,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "glucidice și lipidice",
       "E": "glucidice"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 50,
@@ -597,7 +597,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "2,5 - 8,5 g/dl",
       "E": "2,5 - 3,5 g/dl"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 51,
@@ -609,7 +609,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "cavitatea pelviană",
       "E": "hipogastrul"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 52,
@@ -621,7 +621,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "pancreasul",
       "E": "glandele Brunner din duoden"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 53,
@@ -633,7 +633,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "dorsal",
       "E": "frontal"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 54,
@@ -645,7 +645,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "ribozomii",
       "E": "membrana celulară"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 55,
@@ -657,7 +657,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "împarte corpul într-o parte superioară (cranială) și alta inferioară (caudală)",
       "E": "împarte corpul într-o parte anterioară (ventrală) și alta posterioară (dorsală)"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 56,
@@ -669,7 +669,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "împarte corpul într-o parte anterioară (ventrală) și o parte posterioară (dorsală)",
       "E": "este numit planul metameriei corpului"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 57,
@@ -681,7 +681,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "celulele gliale",
       "E": "f ibrele musculare netede"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 58,
@@ -693,7 +693,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "este alcătuită, în principal, din fosfoglucide și proteine",
       "E": "este un sistem coloidal, în care mediul de dispersie este apa"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 59,
@@ -705,7 +705,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "aparat Golgi",
       "E": "neurofibrile"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 60,
@@ -717,7 +717,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "sunt organite bogate în ribonucleoproteine",
       "E": "sunt corpusculi sferici răspândiți în întreaga hialoplasmă"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 61,
@@ -729,7 +729,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "sistem circulator intracitoplasmatic",
       "E": "sediul fosforilării oxidative, cu eliberare de energie"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 62,
@@ -741,7 +741,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "ergastoplasma",
       "E": "neurofibrilele"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 63,
@@ -753,7 +753,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "ioni de Ca și Mg",
       "E": "glucide"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 64,
@@ -765,7 +765,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "hormonii steroizi",
       "E": "ureea"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 65,
@@ -777,7 +777,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "CO₂",
       "E": "N₂"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 66,
@@ -789,7 +789,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "apa trece din compartimentul în care concentrația ei este mai mare (soluție mai diluată) în cel cu concentrația mai mică (soluție mai concentrată)",
       "E": "forța care trebuie aplicată pentru a realiza osmoza se numește presiune osmotică"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 67,
@@ -801,7 +801,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "raportul influx de K+/eflux de Na+ este de 3 K+ la 2 Na+",
       "E": "reintroduce în celulă Na+ difuzat la exterior"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 68,
@@ -813,7 +813,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "are o valoare medie apropiată de cea a potențialului de echilibru pentru K+",
       "E": "este un răspuns de tip „tot sau nimic”"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 69,
@@ -825,7 +825,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "este un răspuns de tip „tot sau nimic”",
       "E": "celulele stimulate electric nu generează potențiale de acțiune prin modificarea potențialului de membrană"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 70,
@@ -837,7 +837,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "se datorează inactivării canalelor pentru Na+",
       "E": "reprezintă intervalul de timp pe parcursul căruia este ușor de obținut un potențial de acțiune"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 71,
@@ -849,7 +849,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "activitatea secretorie",
       "E": "metabolismul celular"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 72,
@@ -861,7 +861,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "canalele glandelor exocrine",
       "E": "uroteliul"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 73,
@@ -873,7 +873,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "ochi",
       "E": "ganglioni limfatici"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 74,
@@ -885,7 +885,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "epiglota",
       "E": "meniscuri articulare"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 75,
@@ -897,7 +897,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "paratiroidelor",
       "E": "adenohipofizei"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 76,
@@ -909,7 +909,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "cartilaginos",
       "E": "mixt"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 77,
@@ -921,7 +921,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "în convalescență",
       "E": "în timpul somnului"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 78,
@@ -933,7 +933,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "arabinoza",
       "E": "riboza"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 79,
@@ -945,7 +945,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "dintr-o moleculă de glucoză rezultă două molecule de acid piruvic",
       "E": "rezultatul net per moleculă de glucoză la sfârșitul ciclului Krebs este obținerea a două molecule de ADP"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 80,
@@ -957,7 +957,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "amoniac",
       "E": "acizi grași"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 81,
@@ -969,7 +969,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "la sfârșitul ei, rezultatul net per moleculă de glucoză este obținerea a 4 molecule de ATP",
       "E": "are un randament extrem de mare (30%)"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 82,
@@ -981,7 +981,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "vasopresina",
       "E": "hormonul somatotrop"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 83,
@@ -993,7 +993,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "prolactina",
       "E": "adrenalina"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 84,
@@ -1005,7 +1005,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "glucagonului",
       "E": "gonadotropinelor"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 85,
@@ -1017,7 +1017,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "mușchi",
       "E": "grăsimea din loja perirenală"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 86,
@@ -1029,7 +1029,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "anumitor enzime",
       "E": "lecitinei"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 87,
@@ -1041,7 +1041,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "adipocitelor",
       "E": "celulelor nervoase"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 88,
@@ -1053,7 +1053,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "glicogen",
       "E": "fosfolipide"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 89,
@@ -1065,7 +1065,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "difuziune facilitată",
       "E": "transport bivalent"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 90,
@@ -1077,7 +1077,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "cortizolul",
       "E": "hormonul foliculostimulant"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 91,
@@ -1089,7 +1089,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "tiroxina",
       "E": "hormonul somatotrop"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 92,
@@ -1101,7 +1101,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "hormonul somatotrop",
       "E": "adrenalina"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 93,
@@ -1113,7 +1113,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "40 kcal/kg/oră",
       "E": "60 kcal/m²/oră"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 94,
@@ -1125,7 +1125,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "măsurarea cantității de CO₂ eliminate în cursul unei activități",
       "E": "măsurarea cantității de CO₂ consumată în cursul unei activități"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 95,
@@ -1137,7 +1137,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "este raportul dintre CO₂ eliberat și O₂ consumat pentru oxidarea unui gram de principiu alimentar",
       "E": "are valoarea 1 pentru glucoză"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 96,
@@ -1149,7 +1149,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "1 pentru alte substanțe decât glucoza",
       "E": "0,83 pentru aminoacidul alanină"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 97,
@@ -1161,7 +1161,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "filochinonă",
       "E": "acid ascorbic"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 98,
@@ -1173,7 +1173,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "tocoferol",
       "E": "piridoxină"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 99,
@@ -1185,7 +1185,7 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "vasoconstricție",
       "E": "tiroxină"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 100,
@@ -1197,6 +1197,6 @@ registerModule("cap1", "Capitol 1 — Celula. Metabolismul", "Celule, țesuturi,
       "D": "dializă",
       "E": "transplant renal"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   }
 ]);

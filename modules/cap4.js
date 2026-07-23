@@ -9,7 +9,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "produc substanțe care le eliberează la nivelul pielii",
       "E": "produc substanțe care acționează la locul sintezei"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "parotidele",
       "E": "tiroida"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "placenta",
       "E": "testiculul"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "rinichiul",
       "E": "timusul"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "lobul posterior constituie neurohipofiza",
       "E": "este situată la baza encefalului"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "hipotalamusul nu controlează activitatea hipofizei",
       "E": "hipotalamusul controlează și reglează activitatea hipofizei"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "este localizată pe șaua turcească a osului sfenoid",
       "E": "se mai numește glanda pituitară"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "secretă ADH și oxitocină",
       "E": "secretă cortizol"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "hormoni gonadotropi (TSH, prolactina)",
       "E": "doar hormoni glandulotropi"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "efectele STH se exercită direct prin intermediul unor factori de creștere numiți somatomedine",
       "E": "stimulează creșterea mușchilor, viscerelor cu excepția creierului"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "determină eliminarea de compuși ai Ca, Na, K, P și Na",
       "E": "stimulează creșterea creierului"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "înainte de pubertate produce boala numită nanism hipofizar",
       "E": "înainte de pubertate individul atinge talii de peste 2 m"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "determină alungirea exagerată a picioarelor",
       "E": "determină subțierea buzelor"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "boala se numește nanism tiroidian",
       "E": "indivizii au intelect normal"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "LH",
       "E": "ACTH"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "este un inhibitor al activității gonadotrope",
       "E": "suptul determină creșterea temporară a secreției de prolactină"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "atinge un vârf la 8 zile după naștere",
       "E": "în timpul sarcinii este stimulată de somn"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "hormonul adrenocorticotrop",
       "E": "hormon melanocitostimulant"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "somn",
       "E": "hipoglicemie"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "scade concentrația sanguină a hormonilor sexosteroizi",
       "E": "stimulează melanogeneza producând deschiderea culorii pielii"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "crește concentrația sanguină a glucocorticoizilor",
       "E": "crește concentrația sanguină a hormonilor sexosteroizi"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "hipersecreția de ACTH produce efectele caracteristice excesului de glucocorticoizi",
       "E": "hipersecreția de ACTH produce efecte melanocito-stimulatoare la nivelul mucoaselor"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "hipersecreția duce la apariția nanismului hipofizar",
       "E": "hipersecreția poate duce la hipertiroidism"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "hipersecreția de TSH poate duce la hipertiroidism",
       "E": "hiposecreția de TSH duce la insuficiență tiroidiană"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "este hormonul gonadotrop",
       "E": "este hormonul luteotrop"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "controlează funcția gonadelor",
       "E": "sunt hormoni glandulotropi"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "controlează activitatea gonadelor doar la bărbat",
       "E": "sunt hormoni glandulotropi"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "este controlat de adenohipofiză",
       "E": "face parte din hormonii glandulotropi"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "la femeie inhibă creșterea și maturarea folicului de Graaf",
       "E": "la femeie determină secreția de estrogeni"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "este secretat de neurohipofiză",
       "E": "este secretat de adenohipofiză"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "se mai numește hormonul mamotrop",
       "E": "se mai numește hormonul tireotrop"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "la bărbat acționează prin stimularea secreției de androgeni",
       "E": "este o gonadostimulină"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "face parte din neurohipofiză",
       "E": "secretă un hormon de stimulare a pigmentogenezei"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "între neurohipofiză și hipotalamusul anterior se află tractul nervos hipotalamo-hipofizar",
       "E": "eliberează în circulație oxitocina"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "în doze mari produce vasoconstricție",
       "E": "este secretat de neurohipofiză"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 36,
@@ -429,7 +429,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "are rol în reducerea volumului urinei",
       "E": "are rol în concentrarea urinei"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 37,
@@ -441,7 +441,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "se mai numește hormonul antidiuretic",
       "E": "se mai numește vasopresină"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 38,
@@ -453,7 +453,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "crește volumul urinar",
       "E": "în doze normale produce vasoconstricție"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 39,
@@ -465,7 +465,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "apare în leziuni ale hipotalamusului",
       "E": "este determinat de hipersecreția de ADH"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "inhibă expulzia laptelui din glanda mamară",
       "E": "este secretată de neurohipofiză"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "stimulează contracția musculaturii striate a uterului gravid",
       "E": "stimulează expulzia laptelui din glanda mamară"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 42,
@@ -501,7 +501,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "sunt situate la polul superior al rinichilor",
       "E": "sunt formate dintr-o parte corticală și una medulară"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "toate afirmațiile de mai sus sunt adevărate",
       "E": "toate afirmațiile de mai sus sunt false"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "secretă hormoni de natură proteică",
       "E": "secretă adrenalină și noradrenalină"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 45,
@@ -537,7 +537,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "includ sexosteroizii",
       "E": "includ norepinefrina"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 46,
@@ -549,7 +549,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "determină reabsorbția Na+ în schimbul K+ sau H+",
       "E": "sunt secretați de corticosuprarenală"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 47,
@@ -561,7 +561,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "hiposecreția determină boala Conn",
       "E": "hiposecreția determină boala Addison"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 48,
@@ -573,7 +573,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "determină eliminări masive de apă",
       "E": "determină edeme și hipotensiune"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 49,
@@ -585,7 +585,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "determină hipotensiune",
       "E": "determină hipertensiune"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 50,
@@ -597,7 +597,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "determină hipertensiune",
       "E": "determină creșterea capacității de efort"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 51,
@@ -609,7 +609,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "determină edeme și hipertensiune",
       "E": "se caracterizează prin pierdere de sare"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 52,
@@ -621,7 +621,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "sunt reprezentați de cortizon și cortizol",
       "E": "determină hiperglicemie"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 53,
@@ -633,7 +633,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "scade numărul de neutrofile, plachete, hematii",
       "E": "crește stabilitatea membranelor lizozomale"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 54,
@@ -645,7 +645,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "produce creșterea concentrației acizilor grași liberi plasmatici",
       "E": "produce scăderea anabolismului proteic în ficat"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 55,
@@ -657,7 +657,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "hiposecreția duce la apariția sindromului Cushing",
       "E": "hiposecreția se întâlnește în boala Addison"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 56,
@@ -669,7 +669,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "predomină dereglări ale metabolismului intermediare",
       "E": "se datorează hipersecreției de corticotropină"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 57,
@@ -681,7 +681,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "rolul lor se manifestă în special în cazul apariției și dezvoltării caracterelor sexuale secundare",
       "E": "la fete stimulează dezvoltarea scheletului și masei musculare"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 58,
@@ -693,7 +693,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "sunt reprezentați de progesteron",
       "E": "rolul lor este în apariția și dezvoltarea caracterelor sexuale primare"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 59,
@@ -705,7 +705,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "anatomic și funcțional este un ganglion parasimpatic",
       "E": "acțiunea hormonilor medulosuprarenalei este identică cu stimularea sistemului nervos parasimpatic"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 60,
@@ -717,7 +717,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "produce dilatarea bronhiilor",
       "E": "produce dilatarea pupilei"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 61,
@@ -729,7 +729,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "stimulează majoritatea secrețiilor digestive",
       "E": "contractă splina și ficatul"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 62,
@@ -741,7 +741,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "produc glicogenogeneză",
       "E": "au efecte predominant metabolice și energetice"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 63,
@@ -753,7 +753,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "inhibă sistemul reticulat activat",
       "E": "produc relaxare corticală"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 64,
@@ -765,7 +765,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "secretă calcitonina",
       "E": "secretă TSH"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 65,
@@ -777,7 +777,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "este formată din doi lobi laterali uniți între ei prin istmul tiroidian",
       "E": "reglarea secreției se face printr-un mecanism de feedback pozitiv hipotalamo-hipofizo-tiroidian"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 66,
@@ -789,7 +789,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "sunt hipoglicemianți",
       "E": "au efect hipocolesterolemiant"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 67,
@@ -801,7 +801,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "creșterea capacității reziduale funcționale",
       "E": "creșterea capacității pulmonare totale"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 68,
@@ -813,7 +813,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "căderea părului",
       "E": "senzație de frig"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 69,
@@ -825,7 +825,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "apariția senzației de cald",
       "E": "consecințe variabile în funcție de vârstă"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 70,
@@ -837,7 +837,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "tulburări funcționale prin diminuarea efectelor fiziologice hormonale",
       "E": "tahicardie"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 71,
@@ -849,7 +849,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "este vindecată prin administrarea de substanțe gușogene",
       "E": "este determinată de prezența în apa de băut și alimente a unor substanțe chimice oxidante"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 72,
@@ -861,7 +861,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "este secretată în condiții de hipercalcemie",
       "E": "este secretată în condiții de hipocalcemie"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 73,
@@ -873,7 +873,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "este secretat de celulele foliculare „C”",
       "E": "ajută la fixarea Ca2+ în oase"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 74,
@@ -885,7 +885,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "parathormonul controlează secreția vitaminei D3",
       "E": "hipocalcemia stimulează secreția de parathormon"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 75,
@@ -897,7 +897,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "este activ asupra aparatului digestiv prin creșterea absorbției intestinale a calciului",
       "E": "este activ asupra aparatului digestiv prin activarea indirectă a unui transportor legat de membrana celulară"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 76,
@@ -909,7 +909,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "secreția de PTH este stimulată de hipocalcemie",
       "E": "hipersecreția de PTH produce rarefierea oaselor"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 77,
@@ -921,7 +921,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "capul pancreasului are raport anterior cu stomacul",
       "E": "este situat anterior de trunchiul celiac"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 78,
@@ -933,7 +933,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "celulele alfa secreta glucagon",
       "E": "celulele alfa secreta insulina"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 79,
@@ -945,7 +945,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "scade lipogeneza",
       "E": "crește proteoliza"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 80,
@@ -957,7 +957,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "crește sinteza enzimelor lipogenetice",
       "E": "scade lipaza"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 81,
@@ -969,7 +969,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "crește sinteza aminoacizilor",
       "E": "crește captarea proteinelor"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 82,
@@ -981,7 +981,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "determină glicogenozurie",
       "E": "determină dezechilibre acido bazice și electrolitice"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 83,
@@ -993,7 +993,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "afectarea sistemului nervos",
       "E": "polifagie"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 84,
@@ -1005,7 +1005,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "crește forța de contracție miocardică",
       "E": "crește secreția gastrică"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 85,
@@ -1017,7 +1017,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "secretă melatonina și vasotocina",
       "E": "are strânse legături cu retina"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 86,
@@ -1029,7 +1029,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "la întuneric, secreția de melatonină crește, frânând funcția gonadelor",
       "E": "la lumină, secreția de melatonină crește, frânând funcția gonadelor"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 87,
@@ -1041,7 +1041,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "are în structura sa celule reticulare",
       "E": "la maturitate, evoluează și dispare complet"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 88,
@@ -1053,7 +1053,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "acțiunile lor sunt stimulate de hormoni derivați din colesterol",
       "E": "nu conțin hormoni individualizați ca atare"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 89,
@@ -1065,7 +1065,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "unitatea histologică a timusului este lobul timic",
       "E": "are localizare retrosternală"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 90,
@@ -1077,7 +1077,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "scade lipogeneza",
       "E": "scade lipoliza"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 91,
@@ -1089,7 +1089,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "nu are efect semnificativ asupra transportului de glucoză",
       "E": "crește transportul de glucoză"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 92,
@@ -1101,7 +1101,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "cu ajutorul sistemului port hipotalamo-hipofizar",
       "E": "cu ajutorul tractului nervos hipotalamo-hipofizar"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 93,
@@ -1113,7 +1113,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "scăderea amplitudinii respirațiilor",
       "E": "vasodilatație"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 94,
@@ -1125,7 +1125,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "rezultatul efectului calcitoninei este hipofosfatemia",
       "E": "rezultatul efectului calcitoninei este hipocalcemia"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 95,
@@ -1137,7 +1137,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "calciul aflat în exces în sânge formează calculi biliari",
       "E": "se pot produce fracturi spontane"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 96,
@@ -1149,7 +1149,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "glucagon în proporție de 60-70% de către celulele alfa",
       "E": "glucagon în proporție de 20% de către celulele alfa"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 97,
@@ -1161,7 +1161,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "scade secreția gastrică",
       "E": "crește secreția biliară"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 98,
@@ -1173,7 +1173,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "intră în componența epitalamusului",
       "E": "extractele de epifiză au efecte metabolice în metabolismul mineral"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 99,
@@ -1184,7 +1184,7 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "C": "hipersecreția de aldosteron crește retenția de apă",
       "D": "glucocorticoizii circulă în sânge legați de enzime plasmatice"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 100,
@@ -1196,6 +1196,6 @@ registerModule("cap4", "Capitol 4 — Glande Endocrine", "Întrebări despre gla
       "D": "scad stabilitatea membranelor lizozomale",
       "E": "cresc numărul de trombocite"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   }
 ]);

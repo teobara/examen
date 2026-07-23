@@ -9,7 +9,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "chiasma optică",
       "E": "celule multipolare"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "este la 18 mm față de retină",
       "E": "este la 18 m de ochi"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "auditiv",
       "E": "vestibular"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "mezencefal",
       "E": "ganglionul vestibular Scarpa"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "nervul facial",
       "E": "nervul optic"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "numai în bulb",
       "E": "numai în mezencefal"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "filiforme",
       "E": "circumvalate"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "auditivă",
       "E": "vizuală"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "periost",
       "E": "mușchi"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "celule de susținere",
       "E": "toate aceste tipuri"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "sărat pe marginile limbii",
       "E": "acru în centrul limbii"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "ochiul emetrop",
       "E": "nici unul de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "corneea",
       "E": "nici una"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "procesele ciliare",
       "E": "ligamentele suspensoare ale cristalinului"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "15 milioane",
       "E": "30 milioane"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "epifiză",
       "E": "hipofiză"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "toate de mai sus",
       "E": "nici una"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "este situată între tuberculii cvadrigemeni superiori",
       "E": "este localizată pe șaua turcească sub osul etmoid"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "hormon luteinizant",
       "E": "hormon antidiuretic"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "este singurul hiperglicemiant",
       "E": "este singurul hormon cu efect catabolizant pe toate mecanismele intermediare"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "este secretată de celule situate numai la nivelul paratiroidei",
       "E": "este secretată de celule situate numai la nivelul tiroidei"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "parietal",
       "E": "frontal"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "8",
       "E": "14"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "trei membrane Z",
       "E": "două membrane Z"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "30%",
       "E": "70%"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "artrodii",
       "E": "sinostoze"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "50 m/s",
       "E": "30 m/s"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "25 oase",
       "E": "24 oase"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "sfenoid",
       "E": "toate afirmațiile sunt adevărate"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "axis",
       "E": "atlas"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "31 vertebre",
       "E": "30 vertebre"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "0,01 sec",
       "E": "1 sec"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "40% din masa organismului",
       "E": "50% din masa organismului"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "0,4%",
       "E": "0,5%"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "enterocite",
       "E": "glandele parotide"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 36,
@@ -429,7 +429,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "sfincterul piloric",
       "E": "valva ileocecală"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 37,
@@ -441,7 +441,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "în glandele pilorice",
       "E": "în glandele paratiroide"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 38,
@@ -453,7 +453,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "izomaltaza",
       "E": "maltaza"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 39,
@@ -465,7 +465,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "colesterol",
       "E": "vitamine hidrosolubile"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "1-5",
       "E": "5-7"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "acid clorhidric",
       "E": "vitamina B12"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 42,
@@ -501,7 +501,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "600-2.000 ml/zi",
       "E": "650-2.500 ml/zi"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "adventice",
       "E": "tenii"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "colon",
       "E": "faringe"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 45,
@@ -537,7 +537,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "3-5 ore",
       "E": "20 minute"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 46,
@@ -549,7 +549,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "70-80%",
       "E": "5%"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 47,
@@ -561,7 +561,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "zaharază",
       "E": "lipază"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 48,
@@ -573,7 +573,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "acid clorhidric",
       "E": "toate răspunsurile sunt false"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 49,
@@ -585,7 +585,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "un fosfolipid",
       "E": "un glicolipid"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 50,
@@ -597,7 +597,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "2 molari",
       "E": "3 molari"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 51,
@@ -609,7 +609,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "H+",
       "E": "Cl-"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 52,
@@ -621,7 +621,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "facial",
       "E": "trigemen"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 53,
@@ -633,7 +633,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "apă",
       "E": "gastrină"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 54,
@@ -645,7 +645,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "se transmite prin neuronii mienterici",
       "E": "este coordonată vagal"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 55,
@@ -657,7 +657,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "pepsinogen",
       "E": "acid clorhidric"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 56,
@@ -669,7 +669,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "colonică",
       "E": "gastrică"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 57,
@@ -681,7 +681,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "lipazele",
       "E": "acidul clorhidric"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 58,
@@ -693,7 +693,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "substanțe anorganice în procent de 10%",
       "E": "substanțe organice în procent de 10%"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 59,
@@ -705,7 +705,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "4 minute",
       "E": "6 minute"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 60,
@@ -717,7 +717,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "35 cm",
       "E": "40 cm"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 61,
@@ -729,7 +729,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "70/min",
       "E": "80/min"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 62,
@@ -741,7 +741,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "75 ml",
       "E": "80 ml"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 63,
@@ -753,7 +753,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "artera gastrică dreaptă",
       "E": "artera splenică"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 64,
@@ -765,7 +765,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "șoc apexian",
       "E": "miogramă"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 65,
@@ -777,7 +777,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "0,5 mm/sec",
       "E": "10 mm/sec"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 66,
@@ -789,7 +789,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "este mai puțin intens",
       "E": "este produs de închiderea valvelor cardiace"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 67,
@@ -801,7 +801,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "prostată",
       "E": "porțiunea superioară a rectului"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 68,
@@ -813,7 +813,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "artera tibială posterioară",
       "E": "artera iliacă externă"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 69,
@@ -825,7 +825,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "se unește cu cea de partea opusă",
       "E": "se unește cu artera subclaviculară"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 70,
@@ -837,7 +837,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "2 min",
       "E": "4 min"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 71,
@@ -849,7 +849,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "presiunea din capilarele glomerulare care determină filtrarea – 10 mm Hg",
       "E": "diferența tuturor presiunilor care determină filtrarea – 10 mm Hg"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 72,
@@ -861,7 +861,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "iliacă externă",
       "E": "femurală"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 73,
@@ -873,7 +873,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "crește în somn",
       "E": "crește în tahicardie"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 74,
@@ -885,7 +885,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "șocul apexian",
       "E": "electrocardiogramă"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 75,
@@ -897,7 +897,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "endolimfă",
       "E": "elemente figurate"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 76,
@@ -909,7 +909,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "leucocite",
       "E": "trombocite"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 77,
@@ -921,7 +921,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "conțin aglutinine",
       "E": "sunt celule nucleate"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 78,
@@ -933,7 +933,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "traversează peretele capilar",
       "E": "participă la diapedeză"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 79,
@@ -945,7 +945,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "conține majoritatea proteinelor",
       "E": "reprezintă 55% din volumul sanguin"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 80,
@@ -957,7 +957,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "globuline",
       "E": "fibrinogen"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 81,
@@ -969,7 +969,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "laringele",
       "E": "corzile vocale"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 82,
@@ -981,7 +981,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "se continuă cu laringele",
       "E": "se împarte în 2 bronhii"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 83,
@@ -993,7 +993,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "volum de aer rămas în plămân după un expir forțat",
       "E": "volumul de aer suplimentar ce poate fi expirat în timpul unei expirații forțate"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 84,
@@ -1005,7 +1005,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "deoarece presiunea este de 100 mm hg în aerul alveolar iar în sânge de 40 mm hg",
       "E": "deoarece hematia petrece în medie 0,75 secunde în capilarul pulmonar"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 85,
@@ -1017,7 +1017,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "tubii colectori",
       "E": "tubii contorți distali"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 86,
@@ -1029,7 +1029,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "60 mm Hg presiune hidrostatică (sangvină)",
       "E": "10 mm Hg diferență de presiune în favoarea ultrafiltrării"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 87,
@@ -1041,7 +1041,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "este neselectiv",
       "E": "se datorează travaliului metabolic al nefrocitului"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 88,
@@ -1053,7 +1053,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "0,8 mg",
       "E": "0,8 g"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 89,
@@ -1065,7 +1065,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "urina conține potasiu",
       "E": "urina conține calciu"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 90,
@@ -1077,7 +1077,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "este de 18 mm Hg",
       "E": "determină filtrarea"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 91,
@@ -1089,7 +1089,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "riboză",
       "E": "glucoză"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 92,
@@ -1101,7 +1101,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "3% în cazul glicolizei aerobe",
       "E": "3% în cazul glicolizei anaerobe"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 93,
@@ -1113,7 +1113,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "calciferol",
       "E": "piridoxină"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 94,
@@ -1125,7 +1125,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "noradrenalină",
       "E": "insulină"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 95,
@@ -1137,7 +1137,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "endometrul",
       "E": "foliculii"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 96,
@@ -1149,7 +1149,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "vagin",
       "E": "clitoris"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 97,
@@ -1161,7 +1161,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "penis",
       "E": "testicule"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 98,
@@ -1173,7 +1173,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "1 zi",
       "E": "1 oră"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 99,
@@ -1185,7 +1185,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "estradiol",
       "E": "hipotalamus"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 100,
@@ -1197,7 +1197,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "formarea corpului galben",
       "E": "maturarea folicului ovarian"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 101,
@@ -1209,7 +1209,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "efectorul este muşchiul cvadriceps femural",
       "E": "nu iradiază"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 102,
@@ -1221,7 +1221,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "fasciculul tectospinal",
       "E": "centrii unor reflexe vegetative"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 103,
@@ -1233,7 +1233,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "toate sunt încrucişate",
       "E": "spinotalamic anterior"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 104,
@@ -1245,7 +1245,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "centrală în cazul fibrelor cu lanț nuclear",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 105,
@@ -1257,7 +1257,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "se încrucişează",
       "E": "ajung la ganglionul trigeminal"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 106,
@@ -1269,7 +1269,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "celule de susținere",
       "E": "perilimfă"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 107,
@@ -1281,7 +1281,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "startul pigmentar",
       "E": "stratul celulelor bipolare"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 108,
@@ -1293,7 +1293,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "ganglionul geniculat",
       "E": "talamus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 109,
@@ -1305,7 +1305,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "diurnă",
       "E": "culorilor fundamentale"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 110,
@@ -1317,7 +1317,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "oligodendroglia",
       "E": "celula Schwann"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 111,
@@ -1329,7 +1329,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "prezintă sinapse puține",
       "E": "transmiterea se face prin sistemul reticulat activator ascendent"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 112,
@@ -1341,7 +1341,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "terminațiile nervoase libere",
       "E": "toate cele de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 113,
@@ -1353,7 +1353,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "V",
       "E": "VI"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 114,
@@ -1365,7 +1365,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "parte din fibrele sale trec prin ganglionul prevertebral fără să facă sinapsă",
       "E": "nici o excepție"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 115,
@@ -1377,7 +1377,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "cordonul posterior are fascicule descendente",
       "E": "toate cele de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 116,
@@ -1389,7 +1389,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "ei generează senzații de presiune",
       "E": "din categoria lor fac parte discurile Merkel"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 117,
@@ -1401,7 +1401,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "prezintă o zonă posterioară, viscerosenzitivă",
       "E": "între el şi cornul anterior se află substanță reticulată"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 118,
@@ -1413,7 +1413,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "lipsa unui anumit tip de celule cu conuri",
       "E": "scăderea elasticității cristalinului"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 119,
@@ -1425,7 +1425,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "mezencefal",
       "E": "diencefal"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 120,
@@ -1437,7 +1437,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "fungiforme",
       "E": "circumvallate"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 121,
@@ -1449,7 +1449,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "vestibulo-cerebeloase",
       "E": "vestibulo-talamice"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 122,
@@ -1461,7 +1461,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "peretele anterior toracic",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 123,
@@ -1473,7 +1473,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "trompa lui Eustachio",
       "E": "fereastra rotunda"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 124,
@@ -1485,7 +1485,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "monoxidul de azot",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 125,
@@ -1497,7 +1497,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "pot fi corpusculii Ruffini",
       "E": "la ei ajung dendrite ale neuronilor din ganglionul spinal"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 126,
@@ -1509,7 +1509,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "cerebel",
       "E": "substanța reticulată"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 127,
@@ -1521,7 +1521,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "trigonul cerebral",
       "E": "corpul calos"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 128,
@@ -1533,7 +1533,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "cerebelul",
       "E": "mezencefalul"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 129,
@@ -1545,7 +1545,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "se găsește în continuarea radiațiilor optice",
       "E": "ajunge la coliculii cvadrigemeni superiori"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 130,
@@ -1557,7 +1557,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "secreția salivară vâscoasă",
       "E": "coronarodilatație"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 131,
@@ -1569,7 +1569,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "ganglionul Scarpa",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 132,
@@ -1581,7 +1581,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "secreția lacrimală",
       "E": "toate acțiunile de mai sus aparţin unor nervi cranieni micști"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 133,
@@ -1593,7 +1593,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "partea inferioară a girului postecentral",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 134,
@@ -1605,7 +1605,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "bulb",
       "E": "cornul lateral medular"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 135,
@@ -1617,7 +1617,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "prezintă o capsula elastică",
       "E": "putere sa dioptrică este variabilă"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 136,
@@ -1629,7 +1629,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "în șanțul ce o delimitează superior ies din trunchi nervii V, VI, VII",
       "E": "se observă pe fața anterioară a trunchiului cerebral"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 137,
@@ -1641,7 +1641,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 138,
@@ -1653,7 +1653,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "sfincterul vezical extern",
       "E": "rectul"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 139,
@@ -1665,7 +1665,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "vestibulară",
       "E": "bazală"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 140,
@@ -1677,7 +1677,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "butonii terminali",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 141,
@@ -1689,7 +1689,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "este un epiteliu pluristratificat keratinizat",
       "E": "conține bulbii firului de par"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 142,
@@ -1701,7 +1701,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "transmite sensibilitatea kinestezică",
       "E": "este format de axoni ai neuronilor din gg. spinali"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 143,
@@ -1713,7 +1713,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "girul temporal superior",
       "E": "nucleul amigdalian"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 144,
@@ -1725,7 +1725,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "sunt axoni ai unor neuroni din sistemul nervos periferic",
       "E": "toate cele de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 145,
@@ -1737,7 +1737,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "conţine neuroni somato- și viscerosenzitivi",
       "E": "se caracterizează prin toate"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 146,
@@ -1749,7 +1749,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "fibre preganglionare simpatice",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 147,
@@ -1761,7 +1761,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "inervează muşchii laringelui şi faringelui",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 148,
@@ -1773,7 +1773,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "spinotalamic anterior",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 149,
@@ -1785,7 +1785,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "midriază",
       "E": "acomodare pentru vederea de aproape"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 150,
@@ -1797,7 +1797,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "axoni ai protoneuronilor căii olfactive",
       "E": "cilii celulelor bipolare"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 151,
@@ -1809,7 +1809,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "la pârghia de ordinul III punctul de forță se găsește între punctele de sprijin și de rezistență",
       "E": "pârghia de ordinul II se întâlnește la articulația dintre tibie și fibulă"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 152,
@@ -1821,7 +1821,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "parţial clavicula",
       "E": "etmoidul"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 153,
@@ -1833,7 +1833,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "ACTH",
       "E": "LTH"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 154,
@@ -1845,7 +1845,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "„marginea în perie\" de la polul bazal al enterocitelor",
       "E": "epiteliu cilindric stratificat"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 155,
@@ -1857,7 +1857,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "durează în medie 0,04 secunde la muşchiul neted",
       "E": "durează circa 0,05 secunde la muşchiul striat"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 156,
@@ -1869,7 +1869,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "LTH",
       "E": "vasotocina"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 157,
@@ -1881,7 +1881,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "lactoza",
       "E": "zaharaza"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 158,
@@ -1893,7 +1893,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "elasticitate",
       "E": "extensibilitate"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 159,
@@ -1905,7 +1905,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "creșterea creierului",
       "E": "îngroşarea oaselor lungi"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 160,
@@ -1917,7 +1917,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "este produs de glandele oxintice",
       "E": "se secretă liber sau combinat cu proteine"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 161,
@@ -1929,7 +1929,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "STH",
       "E": "adrenalină"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 162,
@@ -1941,7 +1941,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "gastrinei",
       "E": "acidului clorhidric"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 163,
@@ -1953,7 +1953,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "scăderea captării aminoacizilor",
       "E": "creșterea glicolizei"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 164,
@@ -1965,7 +1965,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "includ articulațiile dintre corpurile vertebrale",
       "E": "odată cu înaintarea în vârstă se sinostozează"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 165,
@@ -1977,7 +1977,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "triiodotironină",
       "E": "calcitonină"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 166,
@@ -1989,7 +1989,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "urechea medie",
       "E": "cavitatea nazală"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 167,
@@ -2001,7 +2001,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "unește hipotalamusul anterior de neurohipofiză",
       "E": "transportă hormonul de stimulare a secreției de MSH"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 168,
@@ -2013,7 +2013,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "nazalul",
       "E": "etmoidul"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 169,
@@ -2025,7 +2025,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "creştere reabsorbția tubulară proximală de calciu",
       "E": "creştere eliberarea de fosfați din oase"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 170,
@@ -2037,7 +2037,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "canalul pancreatic accesor",
       "E": "vena portă"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 171,
@@ -2049,7 +2049,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "scăderea capacității de efort",
       "E": "hipertensiune"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 172,
@@ -2061,7 +2061,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "secretor",
       "E": "pavimentos simplu"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 173,
@@ -2073,7 +2073,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "procesele chimice din muşchi asigură energia necesară proceselor electrice",
       "E": "sunt inițiate prin mecanismul de cuplare excitație-contracție"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 174,
@@ -2085,7 +2085,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "tegument",
       "E": "cornee"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 175,
@@ -2097,7 +2097,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "hidroliza gelatinei",
       "E": "excreția colesterolului"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 176,
@@ -2109,7 +2109,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "cortizol",
       "E": "insulină"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 177,
@@ -2121,7 +2121,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "fibrele de colagen constituie 90-95% din oseină",
       "E": "hidroxiapatita este cea mai importantă substanță organică din os"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 178,
@@ -2133,7 +2133,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "stimulează secreția gastrică",
       "E": "are efect antagonist comparativ cu somatostatina"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 179,
@@ -2145,7 +2145,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "muşchiul triceps sural se găseşte pe fața posterioară a brațului",
       "E": "muşchiul deltoid este principalul muşchi al umărului"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 180,
@@ -2157,7 +2157,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "sunt reprezentați de vasotocină și melanină",
       "E": "sunt secretați în cantitate redusă la lumină"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 181,
@@ -2169,7 +2169,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "glicerol",
       "E": "dipeptide"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 182,
@@ -2181,7 +2181,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "muşchiul diafragma",
       "E": "muşchiul trapez"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 183,
@@ -2193,7 +2193,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "transportă un hormon care inhibă secreția MSH",
       "E": "transportă un hormon care inhibă secreția TSH"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 184,
@@ -2205,7 +2205,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "glucagon",
       "E": "gastrină"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 185,
@@ -2217,7 +2217,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "tonusul muscular este de natură reflexă",
       "E": "suportul anatomic al elasticității îl reprezintă fibrele conjunctive şi elastice din muşchi"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 186,
@@ -2229,7 +2229,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "rețea capilară",
       "E": "celule intestinale Lieberkühn"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 187,
@@ -2241,7 +2241,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "crește secreția de androgeni",
       "E": "crește secreția de estrogeni"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 188,
@@ -2253,7 +2253,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "potențialele de acțiune ale unei unități motorii se sumează, dând potenţialele de placă motorie",
       "E": "activitatea electrică a întregului muşchi poate fi înregistrată, obținându-se electromiograma"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 189,
@@ -2265,7 +2265,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "lactoză",
       "E": "sucroză"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 190,
@@ -2277,7 +2277,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "adrenalinei",
       "E": "vasopresinei"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 191,
@@ -2289,7 +2289,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "gastrinei",
       "E": "factorului intrinsec"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 192,
@@ -2301,7 +2301,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "1,5 g",
       "E": "2 g"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 193,
@@ -2313,7 +2313,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "0.9 g/kg corp",
       "E": "1,2 g/kg corp"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 194,
@@ -2325,7 +2325,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "ultimele două perechi sunt coaste false",
       "E": "există patru coaste libere"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 195,
@@ -2337,7 +2337,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "hiperpigmentarea pielii",
       "E": "hipoglicemie"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 196,
@@ -2349,7 +2349,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "timpul faringian",
       "E": "timpul laringian"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 197,
@@ -2361,7 +2361,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "un exemplu este susținerea posturii corpului",
       "E": "muşchiul nu prestează lucru mecanic extern"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 198,
@@ -2373,7 +2373,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "hipoglicemie",
       "E": "hipocolesterolemie"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 199,
@@ -2385,7 +2385,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "conține celule foliculare",
       "E": "conține celule reticulare"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 200,
@@ -2397,7 +2397,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "rol activ în realizarea mişcărilor",
       "E": "rol antitoxic"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 201,
@@ -2409,7 +2409,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "centrozomul",
       "E": "celula"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 202,
@@ -2421,7 +2421,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "spermie",
       "E": "celula adipoasă"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 203,
@@ -2433,7 +2433,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "hepatocitele",
       "E": "celulele adipoase"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 204,
@@ -2445,7 +2445,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "lizozomul",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 205,
@@ -2457,7 +2457,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "tiroidă",
       "E": "hipofiză"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 206,
@@ -2469,7 +2469,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "corpii Nissl",
       "E": "celulele Schwann"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 207,
@@ -2481,7 +2481,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "neurofibrilă",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 208,
@@ -2493,7 +2493,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "o îngroşare a axonului",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 209,
@@ -2505,7 +2505,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "L4",
       "E": "L5"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 210,
@@ -2517,7 +2517,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "fasciculele piramidale",
       "E": "fasciculele extrapiramidale"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 211,
@@ -2529,7 +2529,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "strat papilar",
       "E": "strat reticular"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 212,
@@ -2541,7 +2541,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "fibrele senzitive anulospirale",
       "E": "fibrele senzitive „în floare\""
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 213,
@@ -2553,7 +2553,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "corneea",
       "E": "irisul"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 214,
@@ -2565,7 +2565,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "celulele multipolare",
       "E": "celulele amacrine"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 215,
@@ -2577,7 +2577,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "bifocale",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 216,
@@ -2589,7 +2589,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "pancreasul",
       "E": "placenta"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 217,
@@ -2601,7 +2601,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "diabet zaharat",
       "E": "diabet insipid"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 218,
@@ -2613,7 +2613,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "diabet zaharat",
       "E": "diabet insipid"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 219,
@@ -2625,7 +2625,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "corticosuprarenală",
       "E": "medulosuprarenală"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 220,
@@ -2637,7 +2637,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "iodul",
       "E": "cromul"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 221,
@@ -2649,7 +2649,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "etmoidul",
       "E": "vomerul"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 222,
@@ -2661,7 +2661,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "8",
       "E": "14"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 223,
@@ -2673,7 +2673,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "8",
       "E": "14"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 224,
@@ -2685,7 +2685,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "amfiartrozele",
       "E": "articulațiile sinoviale"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 225,
@@ -2697,7 +2697,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "coapsă",
       "E": "plantă"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 226,
@@ -2709,7 +2709,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "cinci porțiuni",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 227,
@@ -2721,7 +2721,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "oxintice",
       "E": "intestinale"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 228,
@@ -2733,7 +2733,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "D",
       "E": "E"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 229,
@@ -2745,7 +2745,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "sangvină",
       "E": "limfatică"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 230,
@@ -2757,7 +2757,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "D",
       "E": "E"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 231,
@@ -2769,7 +2769,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "limfocite",
       "E": "trombocite"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 232,
@@ -2781,7 +2781,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "specifică dobândită artificial pasiv",
       "E": "specifică dobândită artificial activ"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 233,
@@ -2793,7 +2793,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "pe membrana netrofilelor",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 234,
@@ -2805,7 +2805,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "ventriculul stâng",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 235,
@@ -2817,7 +2817,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "0,5 secunde",
       "E": "0,8 secunde"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 236,
@@ -2829,7 +2829,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "traheea",
       "E": "bronhia"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 237,
@@ -2841,7 +2841,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "pectoral mare",
       "E": "diafragma"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 238,
@@ -2853,7 +2853,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "85 mm Hg",
       "E": "100 mm Hg"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 239,
@@ -2865,7 +2865,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "4 molecule de O2",
       "E": "5 molecule de O2"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 240,
@@ -2877,7 +2877,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "3.500 ml",
       "E": "5.000 ml"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 241,
@@ -2889,7 +2889,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "3.000 ml",
       "E": "5.000 ml"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 242,
@@ -2901,7 +2901,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "tubului contort distal",
       "E": "tubului colector"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 243,
@@ -2913,7 +2913,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "creatinina",
       "E": "Na+"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 244,
@@ -2925,7 +2925,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "vezica urinară",
       "E": "uretra"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 245,
@@ -2937,7 +2937,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "vezica urinară",
       "E": "uretra"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 246,
@@ -2949,7 +2949,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "parametru",
       "E": "vagin"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 247,
@@ -2961,7 +2961,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "cavitar",
       "E": "de Graaf"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 248,
@@ -2973,7 +2973,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "în ziua a 28-a a ciclului menstrual",
       "E": "în prima zi a ciclului menstrual"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 249,
@@ -2985,7 +2985,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "artera ruşinoasă internă",
       "E": "artera scrotală"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 250,
@@ -2997,7 +2997,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "uretră",
       "E": "penis"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 251,
@@ -3009,7 +3009,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "circulația periferică",
       "E": "auz"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 252,
@@ -3021,7 +3021,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "acizii grași",
       "E": "aminoacizii"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 253,
@@ -3033,7 +3033,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "110 mg/100 ml",
       "E": "180 mg/100 ml"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 254,
@@ -3045,7 +3045,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "riboza",
       "E": "dezoxiriboza"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 255,
@@ -3057,7 +3057,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "5.000 kcal/24 h",
       "E": "6.000 kcal/24 h"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 256,
@@ -3069,7 +3069,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "corpi Nissl",
       "E": "axon"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 257,
@@ -3081,7 +3081,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "teacă Schwann",
       "E": "teacă sinaptică"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 258,
@@ -3093,7 +3093,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "lombari",
       "E": "sacrali"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 259,
@@ -3105,7 +3105,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "spinotalamice laterale",
       "E": "spinocerebeloase dorsale"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 260,
@@ -3117,7 +3117,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "măduva lombară",
       "E": "măduva sacrală"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 261,
@@ -3129,7 +3129,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "strat reticular",
       "E": "strat adipos"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 262,
@@ -3141,7 +3141,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "acid",
       "E": "amar"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 263,
@@ -3153,7 +3153,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "celulele multipolare",
       "E": "celulele amacrine"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 264,
@@ -3165,7 +3165,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "cristalin",
       "E": "corp vitros"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 265,
@@ -3177,7 +3177,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "utriculă",
       "E": "saculă"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 266,
@@ -3189,7 +3189,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "LH",
       "E": "LTH"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 267,
@@ -3201,7 +3201,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "glicozurie",
       "E": "expulzia laptelui din glanda mamară"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 268,
@@ -3213,7 +3213,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "insulina",
       "E": "prolactina"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 269,
@@ -3225,7 +3225,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "insulină",
       "E": "coloid"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 270,
@@ -3237,7 +3237,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "tahicardie",
       "E": "polidipsie"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 271,
@@ -3249,7 +3249,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "tarsienele",
       "E": "vertebrele"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 272,
@@ -3261,7 +3261,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "coapsă",
       "E": "gambă"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 273,
@@ -3273,7 +3273,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "trapez",
       "E": "cvadriceps"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 274,
@@ -3285,7 +3285,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "tetanos",
       "E": "tonus muscular"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 275,
@@ -3297,7 +3297,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "conductibilitatea",
       "E": "automatismul"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 276,
@@ -3309,7 +3309,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "acetilcolină",
       "E": "secretină"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 277,
@@ -3321,7 +3321,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "mucina",
       "E": "enzimele"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 278,
@@ -3333,7 +3333,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "biliverdina",
       "E": "lecitina"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 279,
@@ -3345,7 +3345,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "contracției sfincterului Oddi",
       "E": "contracției musculaturii duodenale"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 280,
@@ -3357,7 +3357,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "A",
       "E": "K"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 281,
@@ -3369,7 +3369,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "transportul gazelor respiratorii",
       "E": "echilibrul acido-bazic"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 282,
@@ -3381,7 +3381,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "se termină în atriul drept",
       "E": "se termină în atriul stâng"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 283,
@@ -3393,7 +3393,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "aparține tubului digestiv",
       "E": "este organ de depozit sangvin"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 284,
@@ -3405,7 +3405,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "80 impulsuri/minut",
       "E": "90 impulsuri/minut"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 285,
@@ -3417,7 +3417,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "în sarcină",
       "E": "în repaus"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 286,
@@ -3429,7 +3429,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "digestie",
       "E": "circulaţie"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 287,
@@ -3441,7 +3441,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "diafragmei",
       "E": "pleurei"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 288,
@@ -3453,7 +3453,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "volumul inspirator de rezervă",
       "E": "minut-volumul respirator"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 289,
@@ -3465,7 +3465,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "4 secunde",
       "E": "5 secunde"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 290,
@@ -3477,7 +3477,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "creşterea temperaturii",
       "E": "înaintarea în vârstă"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 291,
@@ -3489,7 +3489,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "calicele mari",
       "E": "vezica urinară"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 292,
@@ -3501,7 +3501,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "formarea şi eliberarea reninei",
       "E": "gluconeogeneza"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 293,
@@ -3513,7 +3513,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "acidului uric",
       "E": "creatininei"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 294,
@@ -3525,7 +3525,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "apă",
       "E": "uree"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 295,
@@ -3537,7 +3537,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "rare hematii",
       "E": "rare leucocite"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 296,
@@ -3549,7 +3549,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "vagin",
       "E": "vulvă"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 297,
@@ -3561,7 +3561,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "clitorisul",
       "E": "muntele lui Venus"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 298,
@@ -3573,7 +3573,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "corpul cavernos",
       "E": "bursa scrotală"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 299,
@@ -3585,7 +3585,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "50 de ani",
       "E": "60 de ani"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 300,
@@ -3597,7 +3597,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "o perioadă menstruală",
       "E": "o perioadă ovulatorie"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 301,
@@ -3609,7 +3609,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "este transversal",
       "E": "merge paralel cu fruntea"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 302,
@@ -3621,7 +3621,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "sistem coloidal",
       "E": "plasmalemă"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 303,
@@ -3633,7 +3633,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "binucleată",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 304,
@@ -3645,7 +3645,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "digestia celulară",
       "E": "sinteza proteică"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 305,
@@ -3657,7 +3657,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "repolarizarea",
       "E": "hiperpolarizarea"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 306,
@@ -3669,7 +3669,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "axon",
       "E": "neurofibrile"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 307,
@@ -3681,7 +3681,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "alma mater",
       "E": "substanță reticulată"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 308,
@@ -3693,7 +3693,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "coarne laterale",
       "E": "comisură cenușie"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 309,
@@ -3705,7 +3705,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "coarne laterale",
       "E": "comisură cenuşie"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 310,
@@ -3717,7 +3717,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "lob floculonodular",
       "E": "lob posterior"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 311,
@@ -3729,7 +3729,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "prezintă doar receptori dureroşi",
       "E": "informează centrii nervoși superiori asupra fenomenelor cu care organismul vine în contact"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 312,
@@ -3741,7 +3741,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "mecanoreceptori",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 313,
@@ -3753,7 +3753,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "acru",
       "E": "acid"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 314,
@@ -3765,7 +3765,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "în transmiterea imaginilor la emisferele cerebrale",
       "E": "de producere a umorii apoase"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 315,
@@ -3777,7 +3777,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "timpan",
       "E": "fereastra ovală"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 316,
@@ -3789,7 +3789,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "adaptarea organismului la mediul extern",
       "E": "secreția unor produşi de sinteză la nivelul pielii și organelor cavitare"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 317,
@@ -3801,7 +3801,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "timus",
       "E": "corticosuprarenală"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 318,
@@ -3813,7 +3813,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "diabet zaharat",
       "E": "guşă endemică"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 319,
@@ -3825,7 +3825,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "cortizol",
       "E": "hormonul de creştere"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 320,
@@ -3837,7 +3837,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "muşchilor erectori ai firului de păr",
       "E": "toate cele de mai sus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 321,
@@ -3849,7 +3849,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "epifizelor",
       "E": "forţelor exercitate de musculatura care se inseră pe acel os"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 322,
@@ -3861,7 +3861,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "nazal",
       "E": "temporal"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 323,
@@ -3873,7 +3873,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "coccigiană",
       "E": "toracală"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 324,
@@ -3885,7 +3885,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "radiusul",
       "E": "rotula"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 325,
@@ -3897,7 +3897,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "axis",
       "E": "police"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 326,
@@ -3909,7 +3909,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "mucus",
       "E": "apă"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 327,
@@ -3921,7 +3921,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "metabolizarea etanolului",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 328,
@@ -3933,7 +3933,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "apei şi electroliților",
       "E": "acizilor nucleici"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 329,
@@ -3945,7 +3945,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "Na+",
       "E": "galactoza"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 330,
@@ -3957,7 +3957,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "sfincterul esofagian inferior",
       "E": "sfincterul anal extern"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 331,
@@ -3969,7 +3969,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "participă la menținerea echilibrului acido-bazic",
       "E": "transportă O2"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 332,
@@ -3981,7 +3981,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "fibrina",
       "E": "fibrinogenul"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 333,
@@ -3993,7 +3993,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "atriul stâng",
       "E": "pulmon"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 334,
@@ -4005,7 +4005,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "este o venă superficială",
       "E": "colectează sânge de la membrul superior"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 335,
@@ -4017,7 +4017,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "vena limfatică stângă",
       "E": "chiliferul general toraco-abdominal"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 336,
@@ -4029,7 +4029,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "bronhiole respiratorii",
       "E": "săculeți alveolari"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 337,
@@ -4041,7 +4041,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "surfactant",
       "E": "epiteliu alveolar"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 338,
@@ -4053,7 +4053,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "preponderent sub formă de oxihemoglobină",
       "E": "fenomenul de membrană Hamburger"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 339,
@@ -4065,7 +4065,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "100 mm Hg",
       "E": "760 mm Hg"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 340,
@@ -4077,7 +4077,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "500 l/min",
       "E": "9  l/min"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 341,
@@ -4089,7 +4089,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "sacrală",
       "E": "coccigiană"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 342,
@@ -4101,7 +4101,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "tubul contort distal",
       "E": "tubul colector"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 343,
@@ -4113,7 +4113,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "capilare glomerulare",
       "E": "urină finală"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 344,
@@ -4125,7 +4125,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "ascendent",
       "E": "sinuos"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 345,
@@ -4137,7 +4137,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "gluconeogeneză",
       "E": "producerea de renină"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 346,
@@ -4149,7 +4149,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "foliculi ovarieni",
       "E": "vene"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 347,
@@ -4161,7 +4161,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "artera ruşinoasă internă",
       "E": "toate cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 348,
@@ -4173,7 +4173,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "canalul ejaculator",
       "E": "canalul deferent"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 349,
@@ -4185,7 +4185,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "vena cavă inferioară",
       "E": "vena renală stângă"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 350,
@@ -4197,7 +4197,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "de masa servită anteriorior fecundației",
       "E": "aleator"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 351,
@@ -4209,7 +4209,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "centura pelvină",
       "E": "centura scapulară"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 352,
@@ -4221,7 +4221,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "prin ardere furnizează 4,1 kcal",
       "E": "sunt precursori ai unor hormoni"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 353,
@@ -4233,7 +4233,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "65 mg/100 ml",
       "E": "180 mg/100 ml"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 354,
@@ -4245,7 +4245,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "albuminele",
       "E": "trigliceridele"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 355,
@@ -4257,7 +4257,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "hipofizari",
       "E": "insulină"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 356,
@@ -4269,7 +4269,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "substanță cenuşie",
       "E": "arahnoidă"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 357,
@@ -4281,7 +4281,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "transpolari",
       "E": "multipolari"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 358,
@@ -4293,7 +4293,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "lombară superioară",
       "E": "cervicală inferioară"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 359,
@@ -4305,7 +4305,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "lombară superioară",
       "E": "cervicală inferioară"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 360,
@@ -4317,7 +4317,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "fornixul",
       "E": "neocortexul"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 361,
@@ -4329,7 +4329,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "strat reticular",
       "E": "epiderm"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 362,
@@ -4341,7 +4341,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "corpul ciliar",
       "E": "macula lutea"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 363,
@@ -4353,7 +4353,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "corpul ciliar",
       "E": "cristalinul"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 364,
@@ -4365,7 +4365,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "alb",
       "E": "negru"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 365,
@@ -4377,7 +4377,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "nicovala",
       "E": "scărița"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 366,
@@ -4389,7 +4389,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "șaua turcească",
       "E": "lobul anterior hipofizar"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 367,
@@ -4401,7 +4401,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "tubului contort distal",
       "E": "tubului colector"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 368,
@@ -4413,7 +4413,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "diabetul insipid",
       "E": "acromegalia"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 369,
@@ -4425,7 +4425,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "vasodilatație",
       "E": "vasoconstricție"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 370,
@@ -4437,7 +4437,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "creşterea metabolismului bazal",
       "E": "uscarea pielii"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 371,
@@ -4449,7 +4449,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "orizontal",
       "E": "vertical"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 372,
@@ -4461,7 +4461,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "claviculă",
       "E": "atlas"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 373,
@@ -4473,7 +4473,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "rotulă",
       "E": "tibie"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 374,
@@ -4485,7 +4485,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "elongația",
       "E": "extensibilitatea"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 375,
@@ -4497,7 +4497,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "muşchiul oblic intern",
       "E": "muşchiul drept abdominal"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 376,
@@ -4509,7 +4509,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "duoden",
       "E": "rect"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 377,
@@ -4521,7 +4521,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "timpul esofagian",
       "E": "timpul gastric"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 378,
@@ -4533,7 +4533,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "este acid",
       "E": "este secretat numai la sugari"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 379,
@@ -4545,7 +4545,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "salivare",
       "E": "esofagiene"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 380,
@@ -4557,7 +4557,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "substanțe nutritive",
       "E": "molibden"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 381,
@@ -4569,7 +4569,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "trunchiul brahiocefalic",
       "E": "artera subclaviculară dreaptă"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 382,
@@ -4581,7 +4581,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "artera mezenterică inferioară",
       "E": "artera iliaca comună stângă"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 383,
@@ -4593,7 +4593,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "septul interventricular",
       "E": "nodul sinoatrial"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 384,
@@ -4605,7 +4605,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "distribuie substanțele nutritive și oxigenul țesuturilor",
       "E": "colectează produşii de catabolism pentru a fi excretați"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 385,
@@ -4617,7 +4617,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "presiunea este identică cu cea din artere",
       "E": "duce substanțe nutritive către țesuturi"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 386,
@@ -4629,7 +4629,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "în continuarea cavității nazale",
       "E": "anterior de laringe"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 387,
@@ -4641,7 +4641,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "pulmonari",
       "E": "inspiratori"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 388,
@@ -4653,7 +4653,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "pleura parietală",
       "E": "suprafața diafragmei"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 389,
@@ -4665,7 +4665,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "volumul spațiului mort",
       "E": "volumul pulmonar total"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 390,
@@ -4677,7 +4677,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "de carbaminohemoglobină",
       "E": "de oxihemoglobină"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 391,
@@ -4689,7 +4689,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "au ansa Henle lungă",
       "E": "au ansa Henle scurtă"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 392,
@@ -4701,7 +4701,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "ansa Henle",
       "E": "tubul contort distal"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 393,
@@ -4713,7 +4713,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "se reabsoarbe la nivel tubular în proporţie de 50%",
       "E": "se reabsoarbe la nivel tubular în proporție de 99%"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 394,
@@ -4725,7 +4725,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "reabsorbția",
       "E": "ultrafiltrarea"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 395,
@@ -4737,7 +4737,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "contracții peristaltice",
       "E": "un corp"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 396,
@@ -4749,7 +4749,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "ligamente",
       "E": "pavilionul trompei"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 397,
@@ -4761,7 +4761,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "ovar",
       "E": "vagin"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 398,
@@ -4773,7 +4773,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "ovogeneza",
       "E": "secreția de estrogeni"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 399,
@@ -4785,7 +4785,7 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "bulbul vestibular",
       "E": "vestibulul vaginal"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 400,
@@ -4797,6 +4797,6 @@ registerModule("cap11", "Capitol 11 — Teste Recapitulative", "Teste recapitula
       "D": "STH",
       "E": "insulină"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   }
 ]);

@@ -9,7 +9,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "bazinet",
       "E": "uretere"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "vezică",
       "E": "uretră"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "calice mare mijlociu",
       "E": "calice mediu"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "este unitatea celulară a rinichiului",
       "E": "în alcătuirea nefronului intră tubul contort proximal"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "calice mare superior",
       "E": "calice mare inferior"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "rolul de eliberare a eritropoietinei",
       "E": "inactivarea vitaminei D3"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "controlează concentrațiile tuturor constituenților organismului",
       "E": "contribuie la menținerea echilibrului acido-bazic al organismului"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "reprezintă 85% din numărul total de nefroni",
       "E": "au glomerulul situat în corticala renală"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "ansele Henle uneori ajung la nivelul papilelor renale",
       "E": "sunt extrem de importanți în mecanismul contracurent"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "primește din arteriolele eferente sângele care a trecut deja prin glomerul",
       "E": "cea mai mare parte a rețelei se găsește de-a lungul tubilor proximali, al tubilor distali și al tubilor colectori corticali"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "<1.000 ml/min",
       "E": ">2.000 ml/min"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "reprezintă cantitatea de filtrat glomerular format zilnic prin toți nefronii ambilor rinichi",
       "E": "este de aproximativ 420 ml/100 g țesut/min"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "este cantitatea se formează într-un minut prin toți nefronii ambilor rinichi",
       "E": "este un lichid care filtrează din capilarele glomerulare în capsula Bowman"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "reprezintă cantitatea care se formează într-o oră prin toți nefronii ambilor rinichi",
       "E": "este de aproximativ 125 ml/min"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "presiunea coloid-osmotică din exteriorul capilarelor",
       "E": "presiunea coloid-osmotică a proteinelor din capsula Bowman"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "60 mm Hg",
       "E": "aproximativ 32 mm Hg"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "aproximativ 18 mm Hg",
       "E": "60 mm Hg"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "60 mm Hg",
       "E": "40 mm Hg"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "60 mm Hg",
       "E": "32 mm Hg"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "absorbția și secreția tubulară se realizează selectiv de către epiteliul tubular",
       "E": "urina finală este lichidul supus procesului de absorbție și secreție tubulară"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "prin acest mecanism se reabsorbe ureea (în gradient osmotic)",
       "E": "prin acest mecanism se reabsorbe o parte din Na și Cl (în gradient electric și electrochimic)"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "nu este limitat de o capacitate maximă de transport a nefronului",
       "E": "se realizează pe baza difuziunii, osmozei și diferențelor de presiuni hidrostatice"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "80% din apa filtrată se reabsorbe la nivelul tubului contort proximal",
       "E": "procesul de reabsorbție a apei este un proces osmotic"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "la nivelul tubilor colectori se realizează o reabsorbție obligatorie",
       "E": "la nivelul tubului contort proximal apa este atrasă din tub în interstițiu ca urmare a reabsorbției sărurilor, glucozei și a altor compuși utili"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "în prezența ADH se elimină un volum de 1,8 L de urină concentrată/24 ore",
       "E": "în restul nefronului se reabsorbe 1% din apă"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "15% din apa filtrată se reabsorbe la nivelul tubilor contorți distali, dar mai ales a tubilor colectori",
       "E": "la nivelul tubilor contorți proximali intervin mecanismele de eliminare a Na și K"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "se face fără consum de ATP",
       "E": "se face împotriva gradientelor electrice"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "glucoza",
       "E": "polipeptidele"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "filtrarea este o modalitate secundară de curățire a plasmei de cataboliții azotați neutilizabili",
       "E": "nu completează funcția de eliminare a unor medicamente"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "procesele de secreție pot avea loc doar în anumite segmente ale nefronului",
       "E": "sensul transportului este inversat: din interstițiul peritubular înspre interiorul tubului"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "secreția de H+ poate avea loc și în restul nefronului",
       "E": "secreția de H+ poate avea loc și în tubul contort distal"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "are loc atât prin mecanisme active cât și prin mecanisme pasive",
       "E": "are loc prin schimb ionic"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "ionul amoniu se elimină împreună cu clorul sub formă de clorură de amoniu",
       "E": "prin excreția suplimentară de H+ se realizează o acidifiere suplimentară a urinii"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "ureterele coboară până la vezica urinară",
       "E": "încep în pelvisul fiecărui rinichi"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "stimularea simpatică poate crește frecvența undelor peristaltice",
       "E": "presiunea intavezicală comprimă ureterul prevenind refluxul urinii în ureter"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 36,
@@ -429,7 +429,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "prezintă două componente: corpul vezical și colul vezical",
       "E": "sfincterul extern al vezicii urinare este alcătuit din mușchi striat"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 37,
@@ -441,7 +441,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "mai poartă denumirea de trigon vezical",
       "E": "reprezintă o mică parte a vezicii urinare"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 38,
@@ -453,7 +453,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "se continuă cu ureterul",
       "E": "este cea mai mică parte a vezicii urinare"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 39,
@@ -465,7 +465,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "poate fi inhibat de centrii nervoși superiori cortexul cerebral",
       "E": "poate fi inhibat de centrii nervoși inferiori din trunchiul cerebral"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "urina conține 5% diverși componenți",
       "E": "urina conține 95% apă"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "0,3 g",
       "E": "nici una dintre valorile de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 42,
@@ -501,7 +501,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "5,3 g",
       "E": "nici una dintre valorile de mai sus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "0,3 g",
       "E": "nici una dintre valorile de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "2-3,9 g",
       "E": "nici una dintre valorile de mai sus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 45,
@@ -537,7 +537,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "1-1,5 g",
       "E": "nici una dintre valorile de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 46,
@@ -549,7 +549,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "acumularea în vezica urinară a 200-300 ml de urină determină o creștere a presiunii intravezicale de numai câțiva centimetri apă",
       "E": "acumularea în vezica urinară a 300-400 ml de urină determină o creștere rapidă a presiunii intravezicale"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 47,
@@ -561,7 +561,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "reflexul de micțiune nu este un reflex controlat în întregime de măduva spinării",
       "E": "contracția inițială a vezicii urinare scade descărcarea de impulsuri de la receptorii vezicali"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 48,
@@ -573,7 +573,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "micțiunea nu se va produce atât timp cât umplerea vezicii urinare este suficientă pentru a declanșa un reflex mai puternic",
       "E": "contracția inițială a vezicii urinare scade descărcarea de impulsuri de la receptorii vezicali"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 49,
@@ -585,7 +585,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "bazinetul",
       "E": "capsula renală (Bowman)"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 50,
@@ -597,7 +597,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "60 mm Hg",
       "E": "aproximativ 32 mm Hg"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 51,
@@ -609,7 +609,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "este unitatea anatomică a rinichiului",
       "E": "în alcătuirea nefronului intră tubul contort proximal"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 52,
@@ -621,7 +621,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "arteriola renală",
       "E": "venula renală"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 53,
@@ -633,7 +633,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "inactivarea vitaminei D3",
       "E": "formarea vitaminei D3"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 54,
@@ -645,7 +645,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "reprezintă 15% din numărul total de nefroni",
       "E": "ansa Henle ajunge în stratul extern al medularei renale"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 55,
@@ -657,7 +657,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "au glomerulul situat la joncțiunea dintre corticală și medulară",
       "E": "ansa Henle coboară adânc în medulară"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 56,
@@ -669,7 +669,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "primește sânge din arteriolele aferente",
       "E": "primește din arteriolele eferente sângele care nu a trecut prin glomerul"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 57,
@@ -681,7 +681,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "240 ml/100 g țesut/min",
       "E": "420 ml/100 g țesut/oră"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 58,
@@ -693,7 +693,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "este o plasmă ce conține proteine în cantități semnificative",
       "E": "este numit urină secundară"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 59,
@@ -705,7 +705,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "cantitatea zilnică este de 180 l",
       "E": "reprezintă cantitatea de filtrat glomerular care se formează într-o oră prin toți nefronii ambilor rinichi"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 60,
@@ -717,7 +717,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "presiunea coloidosmotică a proteinelor din capsula Bowman (valoare de 125 mm Hg)",
       "E": "presiunea din capsula Bowman în exteriorul arteriolelor (aproximativ 18 mm Hg)"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 61,
@@ -729,7 +729,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "majoritatea celulelor tubilor uriniferi nu sunt adaptate morfologic pentru realizarea reabsorbției tubulare",
       "E": "are loc la nivelul nefrocitelor"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 62,
@@ -741,7 +741,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "aminoacizii",
       "E": "majoritatea sărurilor minerale"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 63,
@@ -753,7 +753,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "K+",
       "E": "H+"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 64,
@@ -765,7 +765,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "ureea (în gradient electric)",
       "E": "K+ (în gradient electrochimic)"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 65,
@@ -777,7 +777,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "la nivelul tubului contort proximal are loc o reabsorbție obligatorie",
       "E": "se realizează ca urmare a reabsorbției sărurilor, glucozei și a altor compuși utili, apa fiind atrasă în gradient chimic din tub în interstițiu"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 66,
@@ -789,7 +789,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "în prezența ADH se elimină un volum de 1,8 L urină concentrată în 24 de ore",
       "E": "în lipsa ADH nu se produce"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 67,
@@ -801,7 +801,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "Na și Cl",
       "E": "apa"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 68,
@@ -813,7 +813,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "fosfaților",
       "E": "apei"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 69,
@@ -825,7 +825,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "nu participă la realizarea transportului activ",
       "E": "participă atât la realizarea transportului activ cât și al celui pasiv"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 70,
@@ -837,7 +837,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "prin secreție rinichii intervin și în reglarea concentrației plasmatice a unor constituenți obișnuiți",
       "E": "completează funcția de absorbție a unor substanțe în exces"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 71,
@@ -849,7 +849,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "procesele de secreție nu pot avea loc pe toată lungimea nefronului",
       "E": "sunt doar mecanisme active"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 72,
@@ -861,7 +861,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "prin secreția de H+, rinichiul participă în menținerea homeostaziei",
       "E": "poate avea loc și în restul nefronului"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 73,
@@ -873,7 +873,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "se reabsorbe Ca2+",
       "E": "se reabsorbe H+"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 74,
@@ -885,7 +885,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "reabsorbția și secreția se realizează în funcție de pH-ul mediului intern",
       "E": "mecanismele de transport nu depind de pH-ul mediului intern"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 75,
@@ -897,7 +897,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "se realizează prin mecanisme active",
       "E": "se realizează prin schimb ionic"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 76,
@@ -909,7 +909,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "stimularea simpatică nu afectează intensitatea contracției",
       "E": "stimularea parasimpatică poate scădea frecvența undelor peristaltice"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 77,
@@ -921,7 +921,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "este formată din: corpul vezical, trigonul vezical și porțiunea intermediară",
       "E": "are pereții alcătuiți numai din musculatură striată"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 78,
@@ -933,7 +933,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "este o prelungire sub formă de pâlnie a trigonului vezical",
       "E": "mai poartă denumirea de trigon vezical"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 79,
@@ -945,7 +945,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "prezintă o porțiune intermediară numită trigon vezical",
       "E": "prezintă un sfincter extern controlat voluntar"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 80,
@@ -957,7 +957,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "împiedică golirea vezicii, când presiunea intravezicală atinge pragul critic",
       "E": "nu este influențat de presiunea intravezicală"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 81,
@@ -969,7 +969,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "este denumirea dată mușchiului colului vezical",
       "E": "tonusul său natural oprește în mod normal pătrunderea urinei la nivelul colului vezical"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 82,
@@ -981,7 +981,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "nu poate preveni micțiunea chiar și atunci când controlul involuntar tinde să o inițieze",
       "E": "se mai numește și mușchiul colului vezical"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 83,
@@ -993,7 +993,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "în momentul atingerii valorii prag a tensiunii intraparietale se declanșează un reflex nervos, numit reflex „de micțiune”, care determină micțiunea",
       "E": "reflexul de micțiune este un reflex controlat în întregime de centrii nervoși superiori din trunchiul cerebral și din cortexul cerebral"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 84,
@@ -1005,7 +1005,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "dacă volumul de urină depășește 300-400 ml presiunea crește la 5-10 cm apă",
       "E": "dacă volumul de urină depășește 300-400 ml presiunea crește treptat foarte încet"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 85,
@@ -1017,7 +1017,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "reflexul de micțiune este un reflex controlat parțial de măduva spinării",
       "E": "contracția inițială a vezicii urinare duce la accentuarea contracției reflexe"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 86,
@@ -1029,7 +1029,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "nu poate fi inhibat de centrii nervoși superiori din trunchiul cerebral",
       "E": "nu este controlat de măduva spinării"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 87,
@@ -1041,7 +1041,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "reflexul de micțiune odată inițiat, se autoamplifică",
       "E": "poate fi inhibat și stimulat atât de centrii nervoși superiori din trunchiul cerebral cât și din cortexul cerebral"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 88,
@@ -1053,7 +1053,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "5% diverși componenți",
       "E": "95% diverși componenți"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 89,
@@ -1065,7 +1065,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "trombocite",
       "E": "glicogen"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 90,
@@ -1077,7 +1077,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "urina are în compoziție hematii și leucocite (>5.000/ml)",
       "E": "urina conține în proporție de >5% hematii și leucocite"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 91,
@@ -1089,7 +1089,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "K+ - 1-1,5 g",
       "E": "Cl- - 5,3 g"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 92,
@@ -1101,7 +1101,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "fosfor = 0,2 g",
       "E": "apa = 1,3-1,8 ml"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 93,
@@ -1113,7 +1113,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "Mg2+ = 15 mg",
       "E": "Cl- = 5,3 g"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 94,
@@ -1125,7 +1125,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "aproximativ 1.700.000",
       "E": "circa 2.000.000"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 95,
@@ -1137,7 +1137,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "85% din numărul total de nefroni",
       "E": "circa 2.000.000"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 96,
@@ -1149,7 +1149,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "125 ml/oră",
       "E": "1.250 ml/oră"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 97,
@@ -1161,7 +1161,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": ">7.425 ml/oră",
       "E": ">20 ml/secundă"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 98,
@@ -1173,7 +1173,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": ">99% din filtratul glomerular",
       "E": "<1,25 ml/min"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 99,
@@ -1185,7 +1185,7 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "are baza spre corticala renală",
       "E": "atât vârful cât și baza sunt spre corticala renală"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 100,
@@ -1197,6 +1197,6 @@ registerModule("cap8", "Capitol 8 — Excreția", "Întrebări despre excreție"
       "D": "prin acest mecanism se reabsorbe apa (în gradient chimic)",
       "E": "se realizează pe baza difuziunii, osmozei și diferențelor de presiuni hidrostatice"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   }
 ]);

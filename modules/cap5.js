@@ -9,7 +9,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "nu aparține sistemului circulator",
       "E": "ocupă loja splenică, la stânga lojei gastrice"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "nu aparține sistemului circulator",
       "E": "este un organ abdominal, pereche"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "P=R/D",
       "E": "D=P/R"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "începe în ventriculul drept",
       "E": "transportă sângele cu O2 și substanțe nutritive spre țesuturi și organe"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "începe în ventriculul stâng",
       "E": "transportă sângele cu O2 dinspre organe"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "diafragmă",
       "E": "viscere pelvine"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "diafragmă",
       "E": "viscere pelvine"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "vena mezenterică superioară",
       "E": "vena renală"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "apă 90%",
       "E": "fibrină"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "apă 90%",
       "E": "fibrină"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "reprezintă 55% din volumul sangvin",
       "E": "conține 1% substanțe organice"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "0,5 s",
       "E": "0,3 s"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "leucocite",
       "E": "plachete sanguine"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "au rol în transportul CO2",
       "E": "sunt elemente figurate ale sângelui"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "membre inferioare",
       "E": "viscere pelvine"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "arterele renale",
       "E": "venele pericardice"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "este o apărare cu eficacitate crescută",
       "E": "este o apărare primitivă"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "este o apărare cu eficacitate crescută",
       "E": "este o apărare primitivă"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "dobândită numai activ",
       "E": "dobândită numai pasiv"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "colectează limfa din pătrimea superioară dreaptă a corpului",
       "E": "nu prezintă valve în interior"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "capabile să emită pseudopode",
       "E": "elemente figurate ale sângelui cu rol apărarea organismului"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "lichid interstițial",
       "E": "toate răspunsurile de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "reprezintă 12% din masa corporală",
       "E": "este fluidul care circulă în interiorul arborelui cardiovascular"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "reprezintă 12% din masa corporală",
       "E": "este fluidul care circulă în interiorul arborelui cardiovascular"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "debitul cardiac de repaus este de aproximativ 5 litri/minut",
       "E": "ciclul cardiac este alcătuit doar din sistolă"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "debitul cardiac de repaus este de aproximativ 5 litri/minut",
       "E": "sistola atrială o precede pe cea ventriculară cu 0,3 secunde"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "volumul bătaie al fiecărui ventricul este, în medie, 70 ml",
       "E": "volumul bătaie nu variază cu forța contracției ventriculare"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "volumul bătaie al fiecărui ventricul este, în medie, 70 ml",
       "E": "volumul bătaie variază cu forța contracției ventriculare"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "scade odată cu vârsta",
       "E": "permite curgerea sacadată a sângelui"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "glande suprarenale",
       "E": "viscere pelvine"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "are loc în paralel cu sistola atrială",
       "E": "durează 0,3 s"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "este diastolic",
       "E": "este sistolic"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "este diastolic",
       "E": "este sistolic"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "este diastolic",
       "E": "este sistolic"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "reprezintă niște manifestări electrice",
       "E": "pot fi înregistrate grafic rezultând o fonocardiogramă"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 36,
@@ -429,7 +429,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "pereții vaselor limfatice au o structură asemănătoare venelor",
       "E": "pereții vaselor limfatice au o structură complet diferită de cea a venelor"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 37,
@@ -441,7 +441,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "au rol de barieră în răspândirea infecțiilor",
       "E": "toate răspunsurile de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 38,
@@ -453,7 +453,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "vascularizația arterială a splinei este realizată de artera splenică",
       "E": "toate răspunsurile de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 39,
@@ -465,7 +465,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "are loc în paralel cu sistola atrială",
       "E": "este precedată de sistola atrială cu 0,10 s"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "efort",
       "E": "toate răspunsurile de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "imprimă ritmul idioventricular",
       "E": "la nivelul său frecvența descărcărilor este lentă"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 42,
@@ -501,7 +501,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "imprimă ritmul idioventricular",
       "E": "la nivelul său frecvența descărcărilor este mai rapidă"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "imprimă ritmul idioventricular",
       "E": "la nivelul său frecvența descărcărilor este foarte rapidă"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "sunt valve semilunare",
       "E": "toate răspunsurile de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 45,
@@ -537,7 +537,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "împiedică revenirea sângelui în ventriculul stâng",
       "E": "toate răspunsurile de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 46,
@@ -549,7 +549,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "poate imprima frecvența cardiacă dacă nodulul sinoatrial este scos din funcție",
       "E": "toate răspunsurile de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 47,
@@ -561,7 +561,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "poate imprima frecvența cardiacă dacă nodulul sinoatrial este scos din funcție",
       "E": "toate răspunsurile de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 48,
@@ -573,7 +573,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "este identică la toate celulele miocardice",
       "E": "este de 10 ori mai mică prin Fasciculul Hiss decât prin miocardul atrial"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 49,
@@ -585,7 +585,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "este de 10 ori mai mare prin fasciculul Hiss decât prin miocardul atrial",
       "E": "este diferită în miocardul atrial și cel ventricular"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 50,
@@ -597,7 +597,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "rețelei Purkinje",
       "E": "fasciculului Hiss"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 51,
@@ -609,7 +609,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "nodulul atrioventricular funcționează în paralel cu nodulul sinoatrial",
       "E": "în mod normal în inimă există patru centri de automatism cardiac"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 52,
@@ -621,7 +621,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "asigură înregistrarea zgomotelor inimii",
       "E": "oferă informații despre modul de golire al ventriculului stâng"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 53,
@@ -633,7 +633,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "zgomotele cardiace",
       "E": "evaluarea pulsului din vene"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 54,
@@ -645,7 +645,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "are valori apropiate cu ale presiunii atmosferice",
       "E": "variază invers proporțional cu debitul cardiac"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 55,
@@ -657,7 +657,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "variază direct proporțional cu lungimea vasului",
       "E": "variază invers proporțional cu calibrul vascular"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 56,
@@ -669,7 +669,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "venele mari",
       "E": "capilare"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 57,
@@ -681,7 +681,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "în capilare este mai redusă de o mie de ori decât în aortă",
       "E": "variază direct proporțional cu presiunea arterială"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 58,
@@ -693,7 +693,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "jejuno-ileonul",
       "E": "partea stângă a colonului transvers"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 59,
@@ -705,7 +705,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "partea superioară a rectului",
       "E": "viscerele pelvine"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 60,
@@ -717,7 +717,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "jejunul",
       "E": "apendicele xifoid"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 61,
@@ -729,7 +729,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "jejunul",
       "E": "splina"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 62,
@@ -741,7 +741,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "distruge limfocite",
       "E": "depozit sanguin"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 63,
@@ -753,7 +753,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "pereții vaselor limfatice au structură asemănătoare venelor",
       "E": "vasele limfatice au valve semilunare ce încetinesc circulația limfei"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 64,
@@ -765,7 +765,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "produc neutrofile",
       "E": "formează anticorpi"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 65,
@@ -777,7 +777,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "capsulă fibroasă",
       "E": "capsulă elastică"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 66,
@@ -789,7 +789,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "180 ml",
       "E": "300 ml"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 67,
@@ -801,7 +801,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "asigură umplerea atrială",
       "E": "sunt situate la nivelul orificiilor atrioventriculare"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 68,
@@ -813,7 +813,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "volumul sangvin circulant",
       "E": "volumul globular procentual"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 69,
@@ -825,7 +825,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "are o frecvență de 40 impulsuri/minut",
       "E": "este generat de nodulul sinoatrial"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 70,
@@ -837,7 +837,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "membrelor superioare",
       "E": "ficatului"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 71,
@@ -849,7 +849,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "testicule",
       "E": "creier"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 72,
@@ -861,7 +861,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "este de 70-75 ml",
       "E": "scade la altitudine"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 73,
@@ -873,7 +873,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "transportă spre plămân sânge cu CO₂",
       "E": "se termină în atriul drept"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 74,
@@ -885,7 +885,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "conduce în mod fiziologic inima",
       "E": "este generat de nodulul atrioventricular"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 75,
@@ -897,7 +897,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "începe din ventriculul drept",
       "E": "asigură nutriția bronhiilor"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 76,
@@ -909,7 +909,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "diafragmului",
       "E": "bronhiilor"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 77,
@@ -921,7 +921,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "centrul cardioaccelerator",
       "E": "fasciculul Hiss"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 78,
@@ -933,7 +933,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "declanșează răspunsul imun",
       "E": "antigenele hematiilor se numesc aglutinine"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 79,
@@ -945,7 +945,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "ficat",
       "E": "splină"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 80,
@@ -957,7 +957,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "au rol în echilibrul acido-bazic",
       "E": "conțin mitocondrii"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 81,
@@ -969,7 +969,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "salivă",
       "E": "umoarea apoasă"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 82,
@@ -981,7 +981,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "HCO₃⁻",
       "E": "apă"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 83,
@@ -993,7 +993,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "prezintă aglutinogen B",
       "E": "este donator universal"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 84,
@@ -1005,7 +1005,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "permite acțiunea tromboplastinei",
       "E": "permite acțiunea protrombinei"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 85,
@@ -1017,7 +1017,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "aderarea trombocitelor la nivelul trombusului",
       "E": "oprirea sângerării în 2-4 minute"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 86,
@@ -1029,7 +1029,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "dă ramuri pulmonare",
       "E": "dă arterele subcostale"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 87,
@@ -1041,7 +1041,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "vascularizează partea superioară a rectului",
       "E": "vascularizează colonul ascendent"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 88,
@@ -1053,7 +1053,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "vena portă",
       "E": "vena cavă anterioară"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 89,
@@ -1065,7 +1065,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "viteza sângelui în venele periferice este de 100 mm/s",
       "E": "venele prezintă destinsibilitate și contractilitate"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 90,
@@ -1077,7 +1077,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "prin unirea venei splenice cu vena cavă inferioară",
       "E": "prin unirea venei splenice cu trunchiul celiac"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 91,
@@ -1089,7 +1089,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "produc monocite",
       "E": "produc limfocite"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 92,
@@ -1101,7 +1101,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "se închide în sistola atrială",
       "E": "are trei cuspide"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 93,
@@ -1113,7 +1113,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "sunt reprezentate de valva aortică și pulmonară",
       "E": "sunt valve atrioventriculare"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 94,
@@ -1125,7 +1125,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "venele pulmonare se varsă în atriul stâng",
       "E": "sinusul coronar se varsă în atriul stâng"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 95,
@@ -1137,7 +1137,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "începe cu sistola atrială",
       "E": "începe cu diastola generală"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 96,
@@ -1149,7 +1149,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "precede sistola ventriculară",
       "E": "în timpul său se contractă fibrele musculare din jurul orificiilor de vărsare a venelor în atrii"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 97,
@@ -1161,7 +1161,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "la sfârșitul diastolei generale are loc sistola ventriculară a ciclului cardiac următor",
       "E": "este urmată de sistola atrială"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 98,
@@ -1173,7 +1173,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "palparea pulsului oferă informații privind volumul diastolic",
       "E": "palparea pulsului oferă informații privind ritmul inimii"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 99,
@@ -1185,7 +1185,7 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "este produs de deschiderea valvelor semilunare",
       "E": "este produs la începutul diastolei generale"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 100,
@@ -1197,6 +1197,6 @@ registerModule("cap5", "Capitol 5 — Aparatul Circulator", "Întrebări despre 
       "D": "presiunea sistolică depășește presiunea atmosferică",
       "E": "presiunea arterială se măsoară direct prin măsurarea tensiunii arteriale"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   }
 ]);

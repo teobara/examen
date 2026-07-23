@@ -9,7 +9,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "sinapse",
       "E": "butoni terminali"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "atinge viteza de 100 m/s la nivelul axonilor amielinici",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "deutoneuronul unei căi senzitive",
       "E": "o celulă receptoare"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "niciuna dintre cele de mai sus",
       "E": "toate cele de mai sus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "monosinaptic",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "mecanoreceptori",
       "E": "chemoreceptori"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "toate cele de mai sus",
       "E": "niciunul din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "glandele exocrine",
       "E": "glandele endocrine"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "compartimentele senzitiv și motor",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "4 pereche de nervi cranieni",
       "E": "3 perechi de nervi cranieni"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "ganglionul spiral",
       "E": "ganglionul geniculat"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "trunchiul cerebral",
       "E": "corpii striați"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 14,
@@ -164,7 +164,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "C": "se păstrează reflexul pupilar fotomotor al ambilor ochi",
       "D": "scade tonusul muscular în partea stângă; E. niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 15,
@@ -176,7 +176,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "miros",
       "E": "auz"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 16,
@@ -188,7 +188,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "senzitive și motorii",
       "E": "senzitive"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 17,
@@ -200,7 +200,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "33-34 perechi",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 18,
@@ -212,7 +212,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "cornul lateral medular",
       "E": "comisura cenușie"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 19,
@@ -224,7 +224,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "de la occipital la vertebra L5",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 20,
@@ -236,7 +236,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "S1 - S5",
       "E": "S2 - S4"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 21,
@@ -248,7 +248,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "filum terminale",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 22,
@@ -259,7 +259,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "C": "axonul deutoneuronului formează fasciculele spinocerebeloase",
       "D": "toate cele de mai sus; E. niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 23,
@@ -271,7 +271,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 24,
@@ -283,7 +283,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai jos"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 25,
@@ -295,7 +295,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "fasciculul olivospinos",
       "E": "fibre corticonucleare"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 26,
@@ -307,7 +307,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "depinde de regiunea inervată",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 27,
@@ -319,7 +319,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "împreună cu cea de-a doua pereche de nervi spinali cervicali",
       "E": "dedesubtul primei vertebre cervicale"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 28,
@@ -331,7 +331,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 29,
@@ -343,7 +343,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 30,
@@ -355,7 +355,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 31,
@@ -367,7 +367,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "8 perechi de nervi cranieni",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 32,
@@ -379,7 +379,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "celulele multipolare din mucoasa olfactivă",
       "E": "neuronii din bulbul olfactiv"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 33,
@@ -391,7 +391,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "nervul mandibular",
       "E": "nervul facial"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 34,
@@ -403,7 +403,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "V, VII, IX, X",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 35,
@@ -415,7 +415,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "bulb și punte",
       "E": "ganglionul Corti"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 36,
@@ -427,7 +427,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "bulb și punte",
       "E": "mezencefal"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 37,
@@ -439,7 +439,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 38,
@@ -451,7 +451,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 39,
@@ -463,7 +463,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "regiunii lombare superioare",
       "E": "regiunii toracale superioare"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 40,
@@ -475,7 +475,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 41,
@@ -487,7 +487,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "fibre vegetative",
       "E": "fibre spinocerebeloase"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 42,
@@ -499,7 +499,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "lobilor anterior și floclonodular",
       "E": "lobului anterior"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 43,
@@ -511,7 +511,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 44,
@@ -523,7 +523,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "talamus",
       "E": "ambele emisfere cerebrale"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 45,
@@ -535,7 +535,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "laterală, inferioară, bazală",
       "E": "laterală, medială, bazală"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 46,
@@ -547,7 +547,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "toate cele de mai sus",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 47,
@@ -559,7 +559,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "în pereții viscerelor",
       "E": "în hipotalamus și talamus"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 48,
@@ -571,7 +571,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "folosește adrenalina",
       "E": "niciuna din cele de mai sus"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 49,
@@ -583,7 +583,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "patru neuroni",
       "E": "cinci neuroni"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 50,
@@ -595,7 +595,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "crește gliconeogeneza",
       "E": "Nu are effect"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 51,
@@ -607,7 +607,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "sunt celule nervoase modificate",
       "E": "se divid intens"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 52,
@@ -619,7 +619,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "sintetizează neurotransmițători",
       "E": "au forme și dimensiuni ale corpului celular asemănătoare între ele"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 53,
@@ -631,7 +631,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "axolemă",
       "E": "membrane plasmatică"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 54,
@@ -643,7 +643,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "neuronilor din ganglionul vestibular Scarpa",
       "E": "neuronilor din mucoasa olfactivă"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 55,
@@ -655,7 +655,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "celulele cu conuri și bastonaș din retină",
       "E": "neuronii din coarnele anterioare ale măduvei spinării"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 56,
@@ -667,7 +667,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "este un efect al deschiderii canalelor de Cl-",
       "E": "nu este un potențial de acțiune"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 57,
@@ -679,7 +679,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "cutanat",
       "E": "olfactiv"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 58,
@@ -691,7 +691,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "oase",
       "E": "mușchi"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 59,
@@ -703,7 +703,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "1-2 nucleoli",
       "E": "neurofibrile"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 60,
@@ -715,7 +715,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "nucleului",
       "E": "complexului Golgi"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 61,
@@ -727,7 +727,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "XI",
       "E": "VII"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 62,
@@ -739,7 +739,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "în ventriculul lateral",
       "E": "între duramater și piamater"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 63,
@@ -751,7 +751,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "aritmie",
       "E": "akinezie"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 64,
@@ -763,7 +763,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "sunt mai bine dezvoltate în regiunea intumescențelor",
       "E": "sunt lungi și subțiri"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 65,
@@ -775,7 +775,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "este mai bine individualizată în regiunea toracică",
       "E": "este mai bine individualizată în regiunea cervicală"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 66,
@@ -787,7 +787,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "fascicule de asociație, situate profund, în imediata vecinătate a substanței cenușii",
       "E": "axoni ai neuronilor din ganglionii spinali"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 67,
@@ -799,7 +799,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "are al treilea neuron în metatalamus",
       "E": "este polisinaptică"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 68,
@@ -811,7 +811,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "are deutoneuronul în cornul posterior al măduvei spinării",
       "E": "are în componență fasciculul spinotalamic lateral"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 69,
@@ -823,7 +823,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "axonul deutoneuronului urcă prin cordonul anterior al măduvei spinării",
       "E": "axonul deutoneuronului urcă prin cordonul posterior al măduvei spinării"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 70,
@@ -835,7 +835,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "străbate bulbul rahidian",
       "E": "urcă prin cordonul lateral medular de aceeași parte"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 71,
@@ -847,7 +847,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "al treilea neuron se găsește la nivelul hipotalamusului",
       "E": "nu are proiecție corticală"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 72,
@@ -859,7 +859,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "corticospinale",
       "E": "striocerebeloase"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 73,
@@ -871,7 +871,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "mezencefal",
       "E": "măduva spinării"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 74,
@@ -883,7 +883,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "ramul ganglionar",
       "E": "rădăcina posterioară (dorsală)"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 75,
@@ -895,7 +895,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "ramul comunicant cenușiu",
       "E": "plexul brahial"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 76,
@@ -907,7 +907,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "se anastomozează cu ramurile dorsale învecinate",
       "E": "inervează organele interne"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 77,
@@ -919,7 +919,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "fibre senzitive",
       "E": "fibre vasomotorii"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 78,
@@ -931,7 +931,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "constau în flexia unui membru ca răspuns la stimularea dureroasă a acesteia",
       "E": "din centrii nervoși nu fac parte nervii senzitivi de ordinul al doilea"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 79,
@@ -943,7 +943,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "pot avea originea aparentă sub lama cvadrigemina",
       "E": "toți sunt micști"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 80,
@@ -955,7 +955,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "VI",
       "E": "XII"
     },
-    "correct": "B"
+    "correct": ["A", "B"]
   },
   {
     "id": 81,
@@ -967,7 +967,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "XI, XII",
       "E": "IX, X"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 82,
@@ -979,7 +979,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "X, XII",
       "E": "VII, IX"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 83,
@@ -991,7 +991,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "VII, IX",
       "E": "IX, XI"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 84,
@@ -1003,7 +1003,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "nu inervează mușchiul oblic superior al globului ocular",
       "E": "sunt nervi micști"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 85,
@@ -1015,7 +1015,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "au originea reală în punte",
       "E": "sunt nervi micști"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 86,
@@ -1027,7 +1027,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "inervează mușchiul drept extern al globului ocular",
       "E": "inervează mușchiul drept superior al globului ocular"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 87,
@@ -1039,7 +1039,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "are fibre senzitive cu originea reală în ganglionul geniculat",
       "E": "culege informații gustative de la treimea posterioară a limbii"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 88,
@@ -1051,7 +1051,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "se distribuie regiunii zigomatice și auriculare",
       "E": "percep gusturile dulce, acru, sărat"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 89,
@@ -1063,7 +1063,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "au originea aparentă în bulb",
       "E": "au fibre parasimpatice care ajung la glandele paratiroide"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 90,
@@ -1075,7 +1075,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "V și X",
       "E": "X și XII"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 91,
@@ -1087,7 +1087,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "colonul",
       "E": "glandele salivare mari"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 92,
@@ -1099,7 +1099,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "IX, XI",
       "E": "X, XII"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 93,
@@ -1111,7 +1111,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "X",
       "E": "XII"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 94,
@@ -1123,7 +1123,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "se continuă cu fascicule care fac sinapsă în nuclei olivari și vestibulari",
       "E": "fac sinapsă în nucleii bazali"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 95,
@@ -1135,7 +1135,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "sensibilitatea de control a mișcării",
       "E": "sensibilitatea termică"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 96,
@@ -1147,7 +1147,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "tactilă grosieră",
       "E": "auditivă"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 97,
@@ -1159,7 +1159,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "trunchiul cerebral",
       "E": "analizatorul olfactiv"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 98,
@@ -1171,7 +1171,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "reglarea tensiunii arteriale",
       "E": "funcționării aparatului reproducător"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 99,
@@ -1183,7 +1183,7 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "scade forța de contracție",
       "E": "nu are efect asupra forței de contracție"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 100,
@@ -1195,6 +1195,6 @@ registerModule("cap2", "Capitol 2 — Sistemul Nervos", "Întrebări despre sist
       "D": "crește producția de mucus",
       "E": "scade producția de mucus simultan cu accentuarea bronhoconstricției"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   }
 ]);

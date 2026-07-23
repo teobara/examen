@@ -9,7 +9,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "procesul de osteogeneză constă în transformarea țesutului conjunctivo-fibros al embrionului în țesut cartilaginos al adultului",
       "E": "procesul de osteogeneză care constă în transformarea țesutului cartilaginos sau conjunctivo-fibros al embrionului în țesutul osos al adultului"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "parțial claviculele",
       "E": "va asigura creșterea în grosime a oaselor lungi, pe seama periostului"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "cartilajului metafizo-metafizar",
       "E": "cartilajului diafizo-diafizar"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "întâi în epifize, ulterior și în metafiză",
       "E": "depinde de respectivul os"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "puncte de osificare desmală",
       "E": "puncte de osificare encondrală"
     },
-    "correct": "A"
+    "correct": ["A"]
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "în jurul vârstei de 14 ani la fete",
       "E": "în jurul vârstei de 16 ani la băieți"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "dinspre proximal spre distal",
       "E": "dinspre epifize spre metafiză"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "radius",
       "E": "ulnă"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "radiusul",
       "E": "coastele"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "fibula",
       "E": "coastele"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "globii oculari",
       "E": "encefalul"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "sfenoidul",
       "E": "parietalul"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "sfenoidul",
       "E": "parietalul"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "două oase sacrale și un coxal",
       "E": "trei oase"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "arcul vertebral posterior",
       "E": "canalul vertebral"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "între corpul vertebral, pediculii vertebrali și arcul vertebral se află orificiul vertebral",
       "E": "pediculii vertebrali prin suprapunere delimitează orificiile de conjugare"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "scoliozele pot fi cu convexitatea la stânga sau la dreapta",
       "E": "curburile coloanei vertebrale pot fi în plan frontal și sagital"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "este format lateral de coaste",
       "E": "este format posterior de 12 vertebre toracale"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "sunt arcuri osteocartilaginoase",
       "E": "primele 7 perechi sunt coaste adevărate iar perechile VIII, IX și X sunt coaste false"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 20,
@@ -236,7 +236,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "scapula se articulează lateral cu osul humerus",
       "E": "clavicula se articulează lateral cu scapula și medial cu manubriul sternal"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 21,
@@ -248,7 +248,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "scheletul gambei este alcătuit din două oase: tibia și fibula",
       "E": "osul coxal provine din sudarea a trei oase: ilion, sacru și ischion"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 22,
@@ -260,7 +260,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "perechile VIII, IX și X sunt coaste false articulându-se cu sternul prin cartilajul coastei VII",
       "E": "ultimele două coaste nu au cartilaj și nu ajung la stern"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 23,
@@ -272,7 +272,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "rol de sediu secundar al organelor hematopoietice",
       "E": "rol în metabolismul calciului, fosforului și electroliților"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 24,
@@ -284,7 +284,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "hidroxiapatita este cea mai importantă substanță cristalină",
       "E": "substanța fundamentală are o mare afinitate față de sărurile minerale"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 25,
@@ -296,7 +296,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "membrana articulară",
       "E": "suprafețe articulare"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 26,
@@ -308,7 +308,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "tricepsul",
       "E": "marele dorsal"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 27,
@@ -320,7 +320,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "bicepsul",
       "E": "piramidal al abdomenului"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 28,
@@ -332,7 +332,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "marele drept abdominal",
       "E": "tricepsul"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 29,
@@ -344,7 +344,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "marele dorsal",
       "E": "trapezul"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 30,
@@ -356,7 +356,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "cvadricepsul este un mușchi cu mai multe origini",
       "E": "bicepsul este un mușchi cu mai multe origini"
     },
-    "correct": "B"
+    "correct": ["B"]
   },
   {
     "id": 31,
@@ -368,7 +368,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "mușchii mimicii",
       "E": "mușchiul sternocleidomastoidian"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 32,
@@ -380,7 +380,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "mușchii postero-laterali ai toracelui",
       "E": "mușchii antero-laterali ai toracelui"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 33,
@@ -392,7 +392,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "plasticitatea",
       "E": "contractilitatea"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 34,
@@ -404,7 +404,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "contractilitatea este proprietatea specifică mușchiului de a se deforma sub acțiunea unei forțe și de a reveni pasiv la forma de repaus atunci când forța a încetat să acționeze",
       "E": "excitabilitatea se datorează unor proprietăți ale membranei celulare precum: polarizare, conductanță ionică, pompe ionice"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 35,
@@ -416,7 +416,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "este de natură reflexă",
       "E": "este o proprietate a mușchilor"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 36,
@@ -428,7 +428,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "în contracțiile izometrice toată energia chimică se pierde sub formă de căldură plus lucru mecanic intern",
       "E": "contracțiile izometrice sunt caracteristice majorității mușchilor scheletici"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 37,
@@ -440,7 +440,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "contracțiile izotonice sunt caracteristice majorității mușchilor scheletici",
       "E": "în contracțiile izotonice atât lungimea mușchiului cât și tensiunea rămân constante"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 38,
@@ -452,7 +452,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "lungimea rămâne constantă dar tensiunea variază",
       "E": "atât lungimea mușchiului cât și tensiunea variază"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 39,
@@ -464,7 +464,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "secusa musculară are trei faze",
       "E": "secusa musculară poate fi izometrică sau izotonică"
     },
-    "correct": "C"
+    "correct": ["C"]
   },
   {
     "id": 40,
@@ -476,7 +476,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "durata manifestării electrice a contracției din timpul fazei de latență depinde de tipul de mușchi",
       "E": "la mușchiul striat faza de latență durează 0,04 secunde"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 41,
@@ -488,7 +488,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "faza de contracție durează în medie 0,04 secunde",
       "E": "durata manifestării electrice a contracției din timpul fazei de latență nu depinde de tipul de mușchi"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 42,
@@ -500,7 +500,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "tetanosul complet prezintă un platou regulat",
       "E": "contracția tetanică nu se poate studia cu ajutorul miografului"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 43,
@@ -512,7 +512,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "tetanosul incomplet se obține prin aplicarea stimulilor cu o frecvență înaltă de 50-100 stimuli/secundă",
       "E": "tetanosul incomplet prezintă un platou dințat"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 44,
@@ -524,7 +524,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "manifestările termice se datorează fenomenelor biochimice din fibra musculară",
       "E": "randamentul contracției masei musculare este de 70%"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 45,
@@ -536,7 +536,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "în jurul vârstei de 10-15 ani epifizele se sudează la diafize",
       "E": "până în jurul vârstei de 20 ani rămân cartilaginoase doar cartilajele de conjugare diafizo-epifizare"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 46,
@@ -548,7 +548,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "lordozele sunt curburi din plan sagital cu concavitatea posterioară caracteristice regiunii toracale",
       "E": "scoliozele sunt curburi în plan frontal și pot fi cu convexitatea la stânga sau la dreapta"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 47,
@@ -560,7 +560,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "scheletul piciorului este format din 8 oase tarsiene, 5 oase metatarsiene și 14 falange",
       "E": "rotula este un os triunghiular cu baza în sus ce se articulează cu epifiza distală a femurului prin fața sa posterioară"
     },
-    "correct": "E"
+    "correct": ["E"]
   },
   {
     "id": 48,
@@ -572,7 +572,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "la adult măduva din canalul central al diafizei oaselor lungi este galbenă",
       "E": "la vârstnici măduva din canalul central al diafizei oaselor lungi este cenușie, funcțională"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 49,
@@ -584,7 +584,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "mușchiul piramidal se află anterior față de fiecare mușchi drept abdominal",
       "E": "medial de mușchii drepți abdominali se află mușchii oblic extern și transvers abdominal"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 50,
@@ -596,7 +596,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "în planul profund al gambei se află mușchii tibial posterior și flexori ai degetelor",
       "E": "în plan superficial în loja anterolaterală se află mușchiul gastrocnemian care împreună cu mușchiul solear formează tricepsul sural"
     },
-    "correct": "D"
+    "correct": ["D"]
   },
   {
     "id": 51,
@@ -608,7 +608,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "se realizează la om prin intermediul sistemului muscular cu rol activ",
       "E": "se realizează la om prin intermediul sistemului muscular cu rol pasiv"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 52,
@@ -620,7 +620,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "va asigura creșterea în lungime a oaselor lungi, pe seama periostului",
       "E": "va forma oasele bolții cutiei craniene"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 53,
@@ -632,7 +632,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "stern",
       "E": "oasele membrelor inferioare"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 54,
@@ -644,7 +644,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "radius",
       "E": "coxal"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 55,
@@ -656,7 +656,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "occipital",
       "E": "tarsiene"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 56,
@@ -668,7 +668,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "occipital",
       "E": "fibula"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 57,
@@ -680,7 +680,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "fibula",
       "E": "rotula"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 58,
@@ -692,7 +692,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "sfenoidul",
       "E": "parietalul"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 59,
@@ -704,7 +704,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "vomerul",
       "E": "etmoidul"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 60,
@@ -716,7 +716,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "un os coxal",
       "E": "2 oase sacrale"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 61,
@@ -728,7 +728,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "participă la executarea mișcărilor trunchiului",
       "E": "participă la executarea mișcărilor capului"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 62,
@@ -740,7 +740,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "prezintă în partea sa superioară doi pediculi vertebrali",
       "E": "legătura dintre arcul vertebral și corpul vertebral se realizează prin doi pediculi vertebrali"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 63,
@@ -752,7 +752,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "fețele laterale se articulează cu osul coxal",
       "E": "vârful lui se unește cu vârful coccisului"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 64,
@@ -764,7 +764,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "rămâne cartilaginos până în jurul vârstei de 20 ani",
       "E": "este situat anterior"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 65,
@@ -776,7 +776,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "scapula este un os lung de formă triunghiulară",
       "E": "scheletul brațului este alcătuit din oasele humerus și ulna"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 66,
@@ -788,7 +788,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "centura pelvină este formată din oasele coxale, sacrul și coccigele",
       "E": "oasele coxale se articulează inferior cu sacrul formând bazinul"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 67,
@@ -800,7 +800,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "2 oase sacrale",
       "E": "coccigele"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 68,
@@ -812,7 +812,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "cutia toracică protejează inima și plămânii",
       "E": "bazinul osos protejează organele pelvine"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 69,
@@ -824,7 +824,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "osul conține 80% reziduu uscat",
       "E": "matricea organică solidă este întărită de depozitele de săruri de fosfor"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 70,
@@ -836,7 +836,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "fibrele de colagen conferă osului o mare rezistență la tensiune",
       "E": "matricea organică intră în compoziția oaselor"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 71,
@@ -848,7 +848,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "în sincondroze între oasele care se articulează se interpune țesut fibros",
       "E": "sunt articulații fixe, imobile"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 72,
@@ -860,7 +860,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "posedă un grad variabil de mobilitate",
       "E": "amfiartrozele au suprafețe articulare plane"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 73,
@@ -872,7 +872,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "sunt articulații fixe",
       "E": "la nivelul unei artrodii mișcările se pot realizează în jurul a trei axe"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 74,
@@ -884,7 +884,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "artrodiile posedă capsulă articulară",
       "E": "în sindesmoze între oasele care se articulează se interpune țesut cartilaginos"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 75,
@@ -896,7 +896,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "mușchiul oblic intern",
       "E": "mușchiul drept abdominal"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 76,
@@ -908,7 +908,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "diafragma",
       "E": "orbicularul buzelor"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 77,
@@ -920,7 +920,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "inervația somatică a mușchiului determină reacții vasomotorii",
       "E": "mușchii scheletici prezintă o porțiune centrală mai voluminoasă numită corpul mușchiului"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 78,
@@ -932,7 +932,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "unul din tendoane se prinde de osul mobil și se numește inserția mușchiului",
       "E": "tendoanele sunt situate la extremitățile mușchilor scheletici"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 79,
@@ -944,7 +944,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "tecile fine de țesut conjunctiv ce învelesc fiecare fibra musculară se numesc endomisium",
       "E": "corpul muscular reprezintă porțiunea periferică mai puțin voluminoasă a mușchilor scheletici"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 80,
@@ -956,7 +956,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "mușchiul sternocleidomastoidian",
       "E": "mușchii trapezi"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   },
   {
     "id": 81,
@@ -968,7 +968,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "mușchii laterali ai antebrațului sunt extensori ai mâinii și degetelor",
       "E": "unii mușchi anteriori ai antebrațului sunt flexori ai degetelor"
     },
-    "correct": "C"
+    "correct": ["A", "C"]
   },
   {
     "id": 82,
@@ -980,7 +980,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "mușchiul croitor se află în loja posterioară",
       "E": "sub mușchiul croitor se găsește mușchiul cvadriceps"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 83,
@@ -992,7 +992,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "adductorul lung",
       "E": "adductorul minim"
     },
-    "correct": "E"
+    "correct": ["C", "D", "E"]
   },
   {
     "id": 84,
@@ -1004,7 +1004,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "în planul superficial se află mușchii tibial posterior și flexori ai degetelor",
       "E": "mușchii tibial posterior și flexori ai degetelor realizează extensia labei piciorului și flexia degetelor"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 85,
@@ -1016,7 +1016,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "mușchiul neted reprezintă componenta efectoare a reflexelor somatice de echilibru și redresare",
       "E": "mușchii scheletici reprezintă aproximativ 50% din masa organismului"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 86,
@@ -1028,7 +1028,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "proteinele contractile reprezintă baza moleculară a contractilității",
       "E": "sarcomerul cuprinde două membrane Z"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 87,
@@ -1040,7 +1040,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "excitabilitatea se datorează proprietăților membranei celulare",
       "E": "permeabilitatea selectivă are un rol important în excitabilitate"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 88,
@@ -1052,7 +1052,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "energia chimică nu se pierde sub formă de căldură",
       "E": "susținerea posturii corpului este un exemplu de contracție izometrică"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 89,
@@ -1064,7 +1064,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "mușchii realizează lucru mecanic",
       "E": "susținerea posturii corpului este un exemplu de contracție izotonică"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 90,
@@ -1076,7 +1076,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "activitatea electrică a unităților motorii poate f i înregistrată obținându-se electromiograma",
       "E": "manifestările electrice sunt reprezentate de potențialul de acțiune al fibrei musculare"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 91,
@@ -1088,7 +1088,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "sunt inițiate prin mecanisme de cuplare excitație-contracție",
       "E": "necesitățile energetice sunt satisfăcute în cea mai mare parte anaerob"
     },
-    "correct": "E"
+    "correct": ["B", "E"]
   },
   {
     "id": 92,
@@ -1100,7 +1100,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "are trei faze",
       "E": "amplitudinea ei nu variază proporțional cu intensitatea stimulului aplicat"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 93,
@@ -1112,7 +1112,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "toate contracțiile voluntare ale mușchilor sunt secuse",
       "E": "contracția obținută în urma reflexului miotatic este o contracție tetanică"
     },
-    "correct": "C"
+    "correct": ["B", "C"]
   },
   {
     "id": 94,
@@ -1124,7 +1124,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "există în organism și situații în care contracția este o contracție tetanică: ex: contracția obținută în urma reflexului miotatic",
       "E": "secusa este o contracție musculară unică obținută prin aplicarea unui stimul unic"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 95,
@@ -1136,7 +1136,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "30% din energia chimică se transformă în energie calorică",
       "E": "manifestările termice sunt reprezentate de potențialul de acțiune al fibrei musculare"
     },
-    "correct": "E"
+    "correct": ["D", "E"]
   },
   {
     "id": 96,
@@ -1148,7 +1148,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "clavicula se articulează lateral cu scapula",
       "E": "scapula este un os de formă triunghiulară așezat cu baza în jos"
     },
-    "correct": "D"
+    "correct": ["C", "D"]
   },
   {
     "id": 97,
@@ -1160,7 +1160,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "amfiartrozele au suprafețe articulare plane sau ușor concave și posedă o mobilitate crescută",
       "E": "diartrozele sunt articulații care posedă un grad variabil de mobilitate"
     },
-    "correct": "E"
+    "correct": ["A", "E"]
   },
   {
     "id": 98,
@@ -1172,7 +1172,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "corpul mușchiului este format din fibre musculare striate",
       "E": "mușchiul nu prezintă o vascularizație bogată"
     },
-    "correct": "D"
+    "correct": ["B", "D"]
   },
   {
     "id": 99,
@@ -1184,7 +1184,7 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "mușchii anteriori ai antebrațului sunt extensori ai antebrațului și supinatori ai mâinii",
       "E": "unii mușchi anteriori ai antebrațului sunt flexori ai degetelor"
     },
-    "correct": "E"
+    "correct": ["C", "E"]
   },
   {
     "id": 100,
@@ -1196,6 +1196,6 @@ registerModule("cap9", "Capitol 9 — Mișcarea", "Întrebări despre mișcare",
       "D": "sarcomerul este cuprins între doua membrane Z",
       "E": "când mușchiul striat este relaxat banda H luminoasă conține actină și miozină"
     },
-    "correct": "D"
+    "correct": ["A", "D"]
   }
 ]);
